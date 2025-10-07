@@ -15,17 +15,18 @@
   "height":300,
 
   "data": {
-      "url": "https://api.allorigins.win/raw?url=https://api.ons.gov.uk/timeseries/lzvb/dataset/prdy/data",
+      "url": "https://raw.githubusercontent.com/shepherdwill/shepherdwill.github.io/refs/heads/main/dynamism_productivity/output_per_hour_worked_LDZB.csv",
       "format": {
-        "type":"json",
-        "property": "quarters"}},
+        "type":"csv"}},
 
   "transform": [
-    {"calculate": "substring(datum.quarter,1)*3-1", "as": "quarter_n"},
-    {"calculate": "join([datum.year, datum.quarter_n],['-'])", "as": "date2"},
-    {"calculate": "timeParse(datum.date2, '%Y-%m')", "as": "date3"}],
- 
-  "encoding": {"x": {"field": "date3", "type": "temporal", "title":null}},
+    {"filter": "datum.Year !== null"},
+    {"calculate": "datum.LZVB", "as": "value"},
+    {"calculate": "substring(datum.Quarter, 1) * 3 - 2", "as": "date_string"},
+    {"calculate": "timeParse(datum.date_string, '%Y-%m')", "as": "date"}
+  ],
+
+  "encoding": {"x": {"field": "date", "type": "temporal", "title":null}},
 
   "layer": [
       {"encoding": {
