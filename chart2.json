@@ -2,19 +2,17 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "title": {
-    "text":"Real GDP Per Capita",
-    "subtitle": ["Current International USD, PPP", "Source: World Bank"]},
+    "text": "Productivity, UK",
+    "subtitle": ["Output per hour, whole economy", "Index, 2019=100; Source-series: ONS-LZVB", ""],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"},
 
-  "width": 400,
-  "height": 300,
- 
-  "data": {"url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/1/s1_example_data/chart2_GDP_pc_6_countries.csv"},
- 
-  "mark": "line",
- 
-  "encoding": {
-    "x": {"field": "Year", "type": "temporal", "title":null},
-    "y": {"field": "GDP pc", "type": "quantitative", "title":null},
-    "color": {"field": "Country Name", "type": "nominal"}
-  }
-}
+  "width":450,
+  "height":300,
+
+  "data": {
+      "url": "https://raw.githubusercontent.com/shepherdwill/shepherdwill.github.io/refs/heads/main/dynamism_productivity/BSD_Annual.csv",
+      "format": {
+        "type":"csv"}},

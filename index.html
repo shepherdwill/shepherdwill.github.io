@@ -37,26 +37,48 @@
         Will Shepherd | <a href="https://www.linkedin.com/in/finnmcevoy/">LinkedIn</a> | <a
             href="https://www.github.com/shepherdwill">GitHub</a>
     </p>
-    <h3>
+    <p>
          This page will document research into business dynamism and productivity in the UK economy.
-    </h3>
+    </p>
+
+    <h2> What is business dynamism and why does it matter?</h2>
 
     <section>
         <div class="chart-description">
-            <h2>The productivity context</h2>
+            <h3>The productivity context</h3>
             <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-                The UK productivity slowdown has been widely documented. 
+                The UK productivity slowdown has been widely documented. Since 2007, productivity growth has been extremely weak falling significantly below the trend line of past productivity performance.
             </p>
         </div>
-        <figure id="Location1"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location1"></figure>
+        <div class="chart-description">
+            <p> 
+                Why should we be concerned about low productivity growth? It directly translates to stagnant real wages and prevents further increases in living standards. At a time when demands on public finances are increasing in advanced economies, low productivity growth also hampers tax revenues to pay for these rising obligations.
+            </p>
+            <p> A number of explanations have been offered ...</p>
+            <ul>
+                <li>Chronic underinvestment from both private and public sectors</li>
+                <li>The long tail of unproductive firms</li>
+                <li>Skill gaps and labour market issues</li>
+                <li>The legacy of the 2008 Financial Crisis</li>
+            </ul>
+            <p></p>
+        </div> 
     </section>
-
     <section>
         <div class="chart-description"> <!-- we are grouping the title and description together so we can style them together -->
-            <h2>What does business dynamism mean?</h2>
+            <h3>What does dynamism mean?</h3>
+            <p> A dynamic economy is one which is changing and responding to the wider environment. This change may take place at a sectoral level as industries grow and shrink, or it may take place at the firm level as companies change size.
+            </p>
+        </div>
+        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+    </section>
+
+        <section>
+        <div class="chart-description"> <!-- we are grouping the title and description together so we can style them together -->
+            <h3>Is this a UK problem?</h3>
             <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-                This is a more advanced chart. We'll cover charts like this in more detail later today. Don't worry if you don't understand it yet.
-                Feel free to replace both charts with your own examples.
+                International comparison.
             </p>
         </div>
         <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
@@ -77,7 +99,7 @@
     <script>
         // This is a comment in JavaScript - it's a different language to HTML and CSS
 
-        var figure_1_spec = "s2_chart1.json"; // We're storing the URL of the graph we want to display in a variable
+        var figure_1_spec = "chart1.json"; // We're storing the URL of the graph we want to display in a variable
         var figure_2_spec = "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/2/s2_chart2.json";
 
         vegaEmbed('#Location1', figure_1_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
