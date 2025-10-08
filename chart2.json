@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "title": {
-    "text": "Productivity, UK",
-    "subtitle": ["Output per hour, whole economy", "Index, 2019=100; Source-series: ONS-LZVB", ""],
+    "text": "Job reallocation has slowed in the UK",
+    "subtitle": ["Job creation and destruction by UK firms", "ONS Annual Business Dynamism 2023; Source Longitudinal Business Database"],
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10,
     "anchor": "start",
@@ -21,7 +21,11 @@
     {
       "fold": ["Job creation rate (Entrants)",	"Job creation rate (Incumbents)",
     "Job destruction rate (Closing)",	"Job destruction rate (Incumbents)"],
-      "as": ["transition_type", "rate"]
+      "as": ["transition_type", "rate_string"]
+    },
+    {
+      "calculate": "toNumber(replace(datum.rate_string, '%', ''))",
+      "as": "rate"
     }
   ],
   "mark": "bar",
