@@ -13,6 +13,38 @@
   "height":300,
 
   "data": {
-      "url": "https://raw.githubusercontent.com/shepherdwill/shepherdwill.github.io/refs/heads/main/dynamism_productivity/BSD_Annual.csv",
+      "url": "https://raw.githubusercontent.com/shepherdwill/shepherdwill.github.io/refs/heads/main/dynamism_productivity/businessdynamism_by_transition.csv",
       "format": {
         "type":"csv"}},
+
+  "transform": [
+    {
+      "fold": ["Job creation rate (Entrants)",	"Job creation rate (Incumbents)",
+    "Job destruction rate (Closing)",	"Job destruction rate (Incumbents)"],
+      "as": ["transition_type", "rate"]
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "year", 
+      "type": "ordinal", 
+      "title": "Year"
+    },
+    "y": {
+      "field": "rate", 
+      "type": "quantitative", 
+      "title": "Job creation/destruction rate"
+    },
+    "color": {
+      "field": "transition_type", 
+      "type": "nominal", 
+      "title": "Transition type"
+    },
+    "tooltip": [
+        {"field": "year", "type": "ordinal"},
+        {"field": "transition_type", "type": "nominal"},
+        {"field": "rate", "type": "quantitative"}
+    ]
+  }
+}
