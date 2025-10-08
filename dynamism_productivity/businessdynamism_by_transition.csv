@@ -1,5 +1,4 @@
-﻿,Job creation rate,,,Job destruction rate,,,Net flows (rate),,,Job reallocation rate,,
-year,Total job creation,Entrants,Incumbents,Total job destruction,Closing businesses,Incumbents,Net flow,Entrants and Closing,Incumbents,Total job reallocation,Entrants and Closing,Incumbents
+﻿year,Total job creation rate,Job creation rate (Entrants),Job creation rate (Incumbents),Total job destruction rate,Job destruction rate (Closing),Job destruction rate (Incumbents),Net job creation rate,Net job creation rate (Entrants and Closing),Net job creation rate (Incumbents),Total job reallocation rate,Job reallocation rate (Entrants and Closing),Job reallocation rate (Incumbents)
 2001,16.22%,4.67%,11.56%,14.48%,4.75%,9.72%,1.74%,-0.09%,1.83%,30.70%,9.42%,21.28%
 2002,13.01%,3.08%,9.93%,12.73%,3.84%,8.89%,0.28%,-0.76%,1.04%,25.74%,6.92%,18.82%
 2003,13.80%,5.92%,7.89%,12.06%,4.41%,7.66%,1.74%,1.51%,0.23%,25.87%,10.32%,15.54%
