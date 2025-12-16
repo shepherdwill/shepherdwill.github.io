@@ -18,7 +18,7 @@
     <!-- This is a link to a stylesheet which contains rules about how each element on the page should be defined-->
     <!-- Try swapping example1.css to another, and take a look at example1.css to see if you understand it-->
     <link rel="stylesheet" type="text/css" href="s2_example1.css">
-    <title>My Portfolio</title> <!-- The title displayed in the browser tab, not on the page itself -->
+    <title>Dynamism in the UK economy</title> <!-- The title displayed in the browser tab, not on the page itself -->
 
     <!-- This is a link to the vega-lite which we're using to make graphs -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
@@ -30,22 +30,21 @@
 <!-- The body tag contains the elements that visitors to our page will see. -->
     <h1 style="margin-bottom: 0px;"> <!-- we can also style elements directly in the HTML by setting the style= atrribute of a tag. -->
         <!-- This is a header, it is the largest text on the page -->
-        Will's Portfolio
+        Dynamism in the UK economy
     </h1>
     <p style="margin-top: 0px; color: darkblue">
         <!-- we're setting the margin to 0px so the header and authour name are close together -->
-        Will Shepherd | <a href="https://www.linkedin.com/in/finnmcevoy/">LinkedIn</a> | <a
+        Will Shepherd | <a href="https://www.linkedin.com/in/will-shepherd-305146194/">LinkedIn</a> | <a
             href="https://www.github.com/shepherdwill">GitHub</a>
     </p>
     <p>
-         This page will document research into business dynamism and productivity in the UK economy.
+         Dynamism, at it's loosest definition, can be considered as the rate of change in the economy. Historically, periods of high economic change have resulted in economic growth, technological advancement and increased living standards.
+         In the UK, but also in the US and Europe, a slowdown in dynamism has been documented over the last 20 years. The economy becoming less dynamic has coincided with a period of stalling productivity growth. The two trends are likely linked.
+         
     </p>
-
-    <h2> What is business dynamism and why does it matter?</h2>
-
     <section>
         <div class="chart-description">
-            <h3>The productivity context</h3>
+            <h2>The productivity context</h2>
             <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
                 The UK productivity slowdown has been widely documented. Since 2007, productivity growth has been extremely weak falling significantly below the trend line of past productivity performance.
             </p>
@@ -67,50 +66,79 @@
     </section>
     <section>
         <div class="chart-description"> <!-- we are grouping the title and description together so we can style them together -->
-            <h3>What does dynamism mean?</h3>
-            <p> A dynamic economy is one which is changing and responding to the wider environment. This change may take place at a sectoral level as industries grow and shrink, or it may take place at the firm level as companies change size.
-            </p>
-        </div>
-        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
-        <p>Dynamism can come from new businesses opening, businesses closing down or existing businesses changing the amount of labour they employ.</p>
-    
-    </section>
+            <p> The productivity distribution across UK firms has become more dispersed over time, with a growing gap between the most and least productive firms.
+                Whilst it is good news that the most productive firms are continuing to improve, these firms employ only a small share of the population meaning the benefits, such as higher wages, are not shared widely.
+                <b>Most firms have experienced little growth in productivity over the last 15 years.</b> The median productivity level, representing the 'typical' firm, is the same in 2023 as it was in 2007.
 
-        <section>
-        <div class="chart-description"> <!-- we are grouping the title and description together so we can style them together -->
-            <h3>Is this a UK problem?</h3>
-            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-                International comparison.
+
             </p>
         </div>
-        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->    
+            <p> The latest ONS data shows a remarkable increase in productivity for the top 10% of firms (90th percentile) between 2020 and 2023.
+                Agriculture, Forestry and Fishing, Other Service, and Information and Communication saw the highest percentage increase in 90th percentile productivity from 2020-2023.
+                These firms may have achieved higher productivity through superior investments, adoption of advanced digital technology, better management practices or in some cases from market power.   </p>
+
+            <p> If the productivity gains shown by the top 10% of firms could be replicated by others, a process known as diffusion, the benefits of productivity growth could be shared wider. This would increase aggregate productivity growth considerably. A dynamic economy encourages the diffusal process by providing competitive pressure for companies to innovate and improve processes, whilst the most unproductive firms exit the market.</p>
     </section>
 
     <section>
         <div class="chart-description"> <!-- we are grouping the title and description together so we can style them together -->
-            <h2>What does the most recent data on UK business dynamism tell us?</h2>
-            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-                UK firms have hired and fired less people over the last 20 years. 
+            <h3>What does dynamism mean?</h3>
+            <p> Business dynamism describes the constant and healthy churning of an economy as new businesses are created, existing ones expand or contract, and others close down. A dynamic economy is one where resources like people, ideas, and money are constantly moving to where they can be most productive.
             </p>
+            <p> Most research focuses on the movement of labour between firms, it is the easiest resource to measure. Total job reallocation measures the total number of jobs being added or taken away by firms, giving an idea of how much firms are adjusting their labour.
+                If fewer firms are hiring/firing the total number of jobs reallocated will be fewer. In other words, the economy is less dynamic.  </p>
         </div>
-        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location3"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->    
+        <p> After four consecutive years of falling reallocation, the job reallocation rate increased in 2022 and remained elevated in 2023 before falling slightly in 2024.
+            This increase was driven primarily by existing firms creating jobs at a higher rate.</p>
     </section>
+
+
+
+    <section>
+        <div class="chart-description"> <!-- we are grouping the title and description together so we can style them together -->
+            <h3>What sized firms are contributing the most to dynamism?</h3>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                We can calculate which types of businesses contributed the most to the whole economy dynamism rates seen above. If you add together the rates in each colour of bar, it will total to the whole economy rate for that type of job flow. <i>E.G all light blue bars sum to equal the rate of jobs created by new firms in the whole economy</i></p>
+
+            <p> Micro firms with 0-9 employees are contributing the most to job reallocation in the UK economy. In 2024, 2% of jobs were destroyed by Micro firms whilst 3.5% were destroyed in total. The smallest firms were responsible for 57% of job destruction.
+            <p> Large firms, however, contribute the most to job creation. In 2024, 3.9% of jobs were created by existing large firms. That makes up more than half of the jobs created by existing firms that year. </p>
+            <p> <i>Feel free to adjust the slider below to see how this changes over the years.</i></p>
+        </div>
+        <figure id="Location4"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+    </section>
+
+
+    <section>
+        <div class="chart-description"> <!-- we are grouping the title and description together so we can style them together -->
+            <h3>What industries are contributing the most to dynamism?</h3>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                Administrative and support activities consistently reallocates the most labour year to year.
+            </p>
+           <p> <i>Again, the slider shows you how this changes over time.</i></p>
+
+        </div>
+        <figure id="Location5"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+    </section>
+
 
     <!-- This is a script, it's a way to run JavaScript code on the page -->
     <script>
         // This is a comment in JavaScript - it's a different language to HTML and CSS
 
         var figure_1_spec = "chart1.json"; // We're storing the URL of the graph we want to display in a variable
-        var figure_2_spec = "chart2.json";
+        var figure_2_spec = "dynamism_productivity/ONS_2025/we_gva_per_worker.json";
+        var figure_3_spec = "dynamism_productivity/ONS_2025/Charts/aggregate_jc_jd.json";
+        var figure_4_spec = "dynamism_productivity/ONS_2025/interactive_firmsize_contribution_chart.json";
+        var figure_5_spec = "dynamism_productivity/ONS_2025/interactive_industry_contribution_chart.json"
 
         vegaEmbed('#Location1', figure_1_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
         vegaEmbed('#Location2', figure_2_spec)
+        vegaEmbed('#Location3', figure_3_spec)
+        vegaEmbed('#Location4', figure_4_spec)
+        vegaEmbed('#Location5', figure_5_spec)
 
-        // Do you want to add more graphs?
-        // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
-        // e.g. 
-        // var figure_3_spec = ...
-        // vegaEmbed('#Location3', figure_3_spec)
 
     </script>
 
