@@ -61,3 +61,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+#Location5 {
+    /* Set a specific width for the chart area */
+    width: 600px; 
+    /* Remove auto margins and align left */
+    margin-left: -50px; 
+    margin-right: auto;
+}
