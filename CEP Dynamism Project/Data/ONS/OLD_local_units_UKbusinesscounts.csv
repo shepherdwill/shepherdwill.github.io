@@ -1,0 +1,290 @@
+
+"UK Business Counts - local units by industry and employment size band"
+"ONS Crown Copyright Reserved [from Nomis on 26 February 2026]"
+"Analysis   :","standard"
+"Area Type  :","countries"
+"Area Name  :","United Kingdom"
+"Employment Sizeband:","Total"
+"Legal Status:","Total"
+
+"Date","A : Agriculture, forestry and fishing","B : Mining and quarrying","C : Manufacturing","D : Electricity, gas, steam and air conditioning supply","E : Water supply; sewerage, waste management and remediation activities","F : Construction","G : Wholesale and retail trade; repair of motor vehicles and motorcycles","H : Transportation and storage","I : Accommodation and food service activities","J : Information and communication","M : Professional, scientific and technical activities","N : Administrative and support service activities","R : Arts, entertainment and recreation","S : Other service activities","T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use","U : Activities of extraterritorial organisations and bodies"
+
+2010,140135,2265,139620,1440,9590,283575,488390,83825,170800,153705,342950,184350,77480,106930,0,35
+2011,142210,2190,133950,1685,10045,271990,484885,82270,163060,156020,348945,177080,76740,103260,0,5
+2012,142070,2165,135475,2215,10495,273605,489445,83060,167880,167245,371275,179860,77885,106170,0,10
+2013,147070,2290,137045,3000,10850,266850,486570,84730,166920,173610,385240,178305,77905,100765,0,10
+2014,148600,2090,137305,3595,10920,275415,491120,89070,171810,187430,415125,191830,78805,102060,0,10
+2015,150215,2105,140995,4495,10975,293820,497370,99615,186310,201025,455265,232165,81125,117210,0,10
+2016,150870,2080,144180,5505,11205,311375,497560,110245,187865,215410,478500,247595,82355,118095,0,5
+2017,152205,2035,146190,5995,11375,329875,502890,126560,192330,225645,498350,270035,83270,118065,0,5
+2018,153400,2110,147230,6455,11505,341915,508005,126370,198740,228080,488645,264505,85125,118275,5,5
+2019,153725,2155,148550,6535,11765,353620,517610,128235,204275,234930,492945,268870,87330,118620,5,5
+2020,152925,2210,148945,6695,11950,361520,515990,140005,211635,234325,489170,274530,88280,119155,5,5
+2021,145025,2115,151200,6845,12180,370105,532275,154950,215430,221240,474190,272760,86280,120140,5,5
+2022,146420,2120,149325,7195,12560,385755,536650,154665,223225,204475,451995,272675,88245,121875,5,5
+2023,145250,2120,146805,6920,12715,388205,521730,145195,222595,195495,436450,269770,89950,124060,0,5
+2024,145055,2040,143185,6990,12775,391195,516570,133455,222130,195720,439210,269865,92335,125675,0,5
+2025,144600,1980,141105,7815,12915,396345,514050,130730,223830,195765,441570,263900,94170,127495,0,5
+
+
+
+"","All figures are rounded to avoid disclosure. Values may be rounded down"
+"","to zero and so all zeros are not necessarily true zeros. Totals across"
+"","tables may differ by minor amounts due to the disclosure methods used."
+"","Furthermore, figures may differ by small amounts from those published in"
+"","ONS outputs"
+"","due to the application of a different rounding methodology."
+"",""
+
+"","Disclosure control methods were revised on 6th October 2015. Users may notice"
+"","minor changes to some cell counts when comparing with data downloaded prior"
+"","to this date."
+"",""
+
+"","In 2015, ONS extended the coverage of businesses to include a population of"
+"","solely PAYE based businesses that were previously excluded because of the risk"
+"","of duplication. In total, in 2015, 105,000 businesses have been"
+"","added.Improvements in matching of administrative data and research into those units excluded"
+"","has indicated that the risk of duplication is very small. The addition of"
+"","these businesses brings the publication in line with Business Demography and the"
+"","BIS Business Population Estimates, both of which include these businesses. For"
+"","more information, see"
+"","http://www.nomisweb.co.uk/articles/news/files/UKBusinessCoverage.pdf"
+"",""
+
+
+
+
+
+
+
+"UK Business Counts - local units by industry and employment size band"
+"ONS Crown Copyright Reserved [from Nomis on 26 February 2026]"
+"Analysis   :","standard"
+"Area Type  :","countries"
+"Area Name  :","United Kingdom"
+"Employment Sizeband:","Micro (0 to 9)"
+"Legal Status:","Total"
+
+"Date","A : Agriculture, forestry and fishing","B : Mining and quarrying","C : Manufacturing","D : Electricity, gas, steam and air conditioning supply","E : Water supply; sewerage, waste management and remediation activities","F : Construction","G : Wholesale and retail trade; repair of motor vehicles and motorcycles","H : Transportation and storage","I : Accommodation and food service activities","J : Information and communication","M : Professional, scientific and technical activities","N : Administrative and support service activities","R : Arts, entertainment and recreation","S : Other service activities","T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use","U : Activities of extraterritorial organisations and bodies"
+
+2010,135630,1535,103150,745,6680,259445,400380,66990,125675,141190,312405,157150,65285,96040,0,20
+2011,137895,1505,99415,940,7040,250215,396645,65790,118450,143905,319030,150670,64460,92510,0,0
+2012,137425,1500,100800,1505,7320,252375,398990,66450,120810,154210,340590,151975,65500,95145,0,5
+2013,142325,1600,102020,2210,7565,245330,394815,67295,117135,160140,353730,150030,65280,89305,0,5
+2014,143835,1420,102365,2755,7705,254215,397380,71615,117785,173500,382775,162650,65875,90515,0,5
+2015,145245,1430,105840,3575,7705,272155,401330,81985,128230,186535,421635,201590,67670,105410,0,5
+2016,145910,1425,109210,4470,7800,289465,400450,92290,129150,200495,444100,216155,68805,106430,0,0
+2017,147490,1375,111235,4920,7940,307390,405465,108050,131200,210300,463175,237200,69545,106350,0,0
+2018,148635,1475,112185,5335,7965,319010,409775,108115,135405,212185,452680,231240,71240,106460,5,0
+2019,148860,1495,113785,5410,8165,330505,418735,109675,140240,218680,455975,234585,73285,106975,5,0
+2020,148000,1545,114375,5560,8310,338180,417610,121345,146505,217630,451760,240095,74155,107670,5,0
+2021,140010,1455,116905,5685,8555,346905,435800,136485,152565,204305,436780,238725,72550,109000,5,0
+2022,141260,1455,115150,5975,8910,361515,441625,135505,159415,186730,413680,238255,74730,111190,5,5
+2023,139970,1450,112740,5860,8970,363540,426905,126135,155985,177115,397095,234075,75950,113185,0,5
+2024,139630,1425,109745,5930,8945,366940,421160,115180,155320,177235,399140,234505,77745,114915,0,0
+2025,139070,1365,108320,6785,9085,372250,418650,112675,156780,177545,400895,226495,79520,116650,0,0
+
+
+
+"","All figures are rounded to avoid disclosure. Values may be rounded down"
+"","to zero and so all zeros are not necessarily true zeros. Totals across"
+"","tables may differ by minor amounts due to the disclosure methods used."
+"","Furthermore, figures may differ by small amounts from those published in"
+"","ONS outputs"
+"","due to the application of a different rounding methodology."
+"",""
+
+"","Disclosure control methods were revised on 6th October 2015. Users may notice"
+"","minor changes to some cell counts when comparing with data downloaded prior"
+"","to this date."
+"",""
+
+"","In 2015, ONS extended the coverage of businesses to include a population of"
+"","solely PAYE based businesses that were previously excluded because of the risk"
+"","of duplication. In total, in 2015, 105,000 businesses have been"
+"","added.Improvements in matching of administrative data and research into those units excluded"
+"","has indicated that the risk of duplication is very small. The addition of"
+"","these businesses brings the publication in line with Business Demography and the"
+"","BIS Business Population Estimates, both of which include these businesses. For"
+"","more information, see"
+"","http://www.nomisweb.co.uk/articles/news/files/UKBusinessCoverage.pdf"
+"",""
+
+
+
+
+
+
+
+"UK Business Counts - local units by industry and employment size band"
+"ONS Crown Copyright Reserved [from Nomis on 26 February 2026]"
+"Analysis   :","standard"
+"Area Type  :","countries"
+"Area Name  :","United Kingdom"
+"Employment Sizeband:","Small (10 to 49)"
+"Legal Status:","Total"
+
+"Date","A : Agriculture, forestry and fishing","B : Mining and quarrying","C : Manufacturing","D : Electricity, gas, steam and air conditioning supply","E : Water supply; sewerage, waste management and remediation activities","F : Construction","G : Wholesale and retail trade; repair of motor vehicles and motorcycles","H : Transportation and storage","I : Accommodation and food service activities","J : Information and communication","M : Professional, scientific and technical activities","N : Administrative and support service activities","R : Arts, entertainment and recreation","S : Other service activities","T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use","U : Activities of extraterritorial organisations and bodies"
+
+2010,4195,535,27205,355,2205,20455,75810,12140,40790,9650,25510,19655,9765,9895,0,10
+2011,3995,490,25655,375,2300,18340,76115,11825,39980,9310,24885,19165,9780,9705,0,0
+2012,4260,480,25865,380,2440,17955,78340,12000,42380,10160,25645,20420,9880,9980,0,5
+2013,4335,505,26175,435,2535,18360,79560,12630,44940,10550,26335,20780,10165,10410,0,0
+2014,4350,490,26110,465,2475,18170,81370,12695,49000,10915,27025,21550,10400,10505,0,0
+2015,4525,485,26225,550,2525,18595,83540,12815,52675,11365,28020,22865,10835,10700,0,0
+2016,4490,475,25965,655,2640,18770,84400,12960,53170,11715,28505,23415,10875,10560,0,0
+2017,4225,485,25975,685,2655,19260,84695,13435,55285,12075,29185,24750,10965,10590,0,0
+2018,4245,470,25950,705,2725,19565,85480,13055,57350,12545,29765,24850,11085,10655,0,0
+2019,4315,485,25580,720,2740,19780,86115,13315,57950,12795,30575,25710,11185,10450,0,0
+2020,4370,490,25390,720,2770,19995,85730,13340,58790,13120,30855,25885,11345,10315,0,0
+2021,4450,480,25290,735,2780,19965,84380,13180,56875,13280,30900,25840,11110,9990,0,0
+2022,4600,500,25285,785,2805,21025,83075,13855,57920,13910,31690,26225,10980,9570,0,0
+2023,4660,500,25210,665,2855,21400,83005,13620,60360,14345,32390,27300,11360,9730,0,0
+2024,4790,450,24610,665,2900,20975,83630,12735,60180,14360,32725,27015,11755,9615,0,0
+2025,4870,450,24085,640,2875,20800,83650,12530,60320,14140,33175,29265,11765,9670,0,0
+
+
+
+"","All figures are rounded to avoid disclosure. Values may be rounded down"
+"","to zero and so all zeros are not necessarily true zeros. Totals across"
+"","tables may differ by minor amounts due to the disclosure methods used."
+"","Furthermore, figures may differ by small amounts from those published in"
+"","ONS outputs"
+"","due to the application of a different rounding methodology."
+"",""
+
+"","Disclosure control methods were revised on 6th October 2015. Users may notice"
+"","minor changes to some cell counts when comparing with data downloaded prior"
+"","to this date."
+"",""
+
+"","In 2015, ONS extended the coverage of businesses to include a population of"
+"","solely PAYE based businesses that were previously excluded because of the risk"
+"","of duplication. In total, in 2015, 105,000 businesses have been"
+"","added.Improvements in matching of administrative data and research into those units excluded"
+"","has indicated that the risk of duplication is very small. The addition of"
+"","these businesses brings the publication in line with Business Demography and the"
+"","BIS Business Population Estimates, both of which include these businesses. For"
+"","more information, see"
+"","http://www.nomisweb.co.uk/articles/news/files/UKBusinessCoverage.pdf"
+"",""
+
+
+
+
+
+
+
+"UK Business Counts - local units by industry and employment size band"
+"ONS Crown Copyright Reserved [from Nomis on 26 February 2026]"
+"Analysis   :","standard"
+"Area Type  :","countries"
+"Area Name  :","United Kingdom"
+"Employment Sizeband:","Medium-sized (50 to 249)"
+"Legal Status:","Total"
+
+"Date","A : Agriculture, forestry and fishing","B : Mining and quarrying","C : Manufacturing","D : Electricity, gas, steam and air conditioning supply","E : Water supply; sewerage, waste management and remediation activities","F : Construction","G : Wholesale and retail trade; repair of motor vehicles and motorcycles","H : Transportation and storage","I : Accommodation and food service activities","J : Information and communication","M : Professional, scientific and technical activities","N : Administrative and support service activities","R : Arts, entertainment and recreation","S : Other service activities","T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use","U : Activities of extraterritorial organisations and bodies"
+
+2010,285,155,7840,240,640,3370,10285,3975,4145,2350,4305,6365,2250,880,0,5
+2011,290,155,7515,270,640,3150,10260,3960,4420,2315,4320,6050,2315,940,0,0
+2012,350,145,7460,225,675,2990,10280,3890,4475,2365,4290,6215,2330,940,0,0
+2013,360,145,7505,250,685,2890,10365,4065,4610,2415,4375,6190,2280,945,0,5
+2014,375,135,7480,270,665,2775,10540,4005,4805,2495,4515,6270,2345,935,0,5
+2015,400,140,7535,255,680,2820,10790,4055,5165,2605,4715,6290,2430,985,0,5
+2016,420,135,7615,270,690,2895,10970,4205,5305,2670,4940,6540,2480,990,0,5
+2017,430,135,7590,275,705,2965,10980,4275,5560,2715,5040,6615,2555,1000,0,5
+2018,445,130,7710,300,740,3060,11065,4370,5695,2790,5230,6865,2565,1035,0,5
+2019,475,135,7775,290,775,3030,11145,4405,5795,2885,5395,7015,2625,1070,0,5
+2020,475,135,7790,295,785,3040,11105,4445,6060,2995,5525,7000,2555,1045,0,5
+2021,480,140,7655,305,765,2945,10585,4420,5725,3065,5510,6745,2415,1035,0,0
+2022,475,130,7565,330,760,2965,10375,4455,5635,3230,5585,6740,2335,995,0,0
+2023,530,135,7505,300,800,3020,10270,4565,5985,3400,5865,6915,2435,1025,0,5
+2024,545,130,7465,300,825,3030,10305,4600,6330,3460,6165,6840,2625,1020,0,5
+2025,555,135,7355,280,850,3035,10345,4545,6400,3430,6280,6770,2665,1035,0,0
+
+
+
+"","All figures are rounded to avoid disclosure. Values may be rounded down"
+"","to zero and so all zeros are not necessarily true zeros. Totals across"
+"","tables may differ by minor amounts due to the disclosure methods used."
+"","Furthermore, figures may differ by small amounts from those published in"
+"","ONS outputs"
+"","due to the application of a different rounding methodology."
+"",""
+
+"","Disclosure control methods were revised on 6th October 2015. Users may notice"
+"","minor changes to some cell counts when comparing with data downloaded prior"
+"","to this date."
+"",""
+
+"","In 2015, ONS extended the coverage of businesses to include a population of"
+"","solely PAYE based businesses that were previously excluded because of the risk"
+"","of duplication. In total, in 2015, 105,000 businesses have been"
+"","added.Improvements in matching of administrative data and research into those units excluded"
+"","has indicated that the risk of duplication is very small. The addition of"
+"","these businesses brings the publication in line with Business Demography and the"
+"","BIS Business Population Estimates, both of which include these businesses. For"
+"","more information, see"
+"","http://www.nomisweb.co.uk/articles/news/files/UKBusinessCoverage.pdf"
+"",""
+
+
+
+
+
+
+
+"UK Business Counts - local units by industry and employment size band"
+"ONS Crown Copyright Reserved [from Nomis on 26 February 2026]"
+"Analysis   :","standard"
+"Area Type  :","countries"
+"Area Name  :","United Kingdom"
+"Employment Sizeband:","Large (250+)"
+"Legal Status:","Total"
+
+"Date","A : Agriculture, forestry and fishing","B : Mining and quarrying","C : Manufacturing","D : Electricity, gas, steam and air conditioning supply","E : Water supply; sewerage, waste management and remediation activities","F : Construction","G : Wholesale and retail trade; repair of motor vehicles and motorcycles","H : Transportation and storage","I : Accommodation and food service activities","J : Information and communication","M : Professional, scientific and technical activities","N : Administrative and support service activities","R : Arts, entertainment and recreation","S : Other service activities","T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use","U : Activities of extraterritorial organisations and bodies"
+
+2010,25,35,1420,100,65,310,1915,720,185,515,730,1185,180,115,0,0
+2011,30,40,1370,100,70,285,1865,700,210,490,710,1195,185,105,0,0
+2012,35,40,1355,105,60,285,1840,720,220,510,745,1255,180,100,0,0
+2013,50,40,1345,105,65,270,1835,735,230,505,800,1310,180,105,0,0
+2014,40,45,1350,100,70,255,1830,750,220,520,815,1360,185,105,0,0
+2015,45,45,1395,115,70,255,1710,760,235,525,900,1425,190,110,0,0
+2016,55,40,1385,110,75,250,1740,795,245,530,955,1485,195,115,0,0
+2017,60,40,1390,115,80,260,1750,800,285,550,950,1475,205,125,0,0
+2018,70,35,1380,115,80,280,1680,830,290,560,970,1550,235,125,0,0
+2019,75,35,1405,120,85,310,1615,840,290,570,1000,1555,235,120,0,0
+2020,80,35,1390,120,80,305,1545,870,280,580,1030,1550,225,120,0,0
+2021,85,35,1345,115,85,290,1510,870,270,590,995,1445,205,115,0,0
+2022,85,35,1330,105,85,250,1575,855,250,605,1035,1455,195,120,0,0
+2023,90,35,1350,95,90,245,1545,875,265,635,1100,1480,210,120,0,0
+2024,95,35,1365,95,105,250,1475,940,300,665,1180,1505,210,130,0,0
+2025,100,30,1345,110,100,260,1405,980,335,655,1215,1370,220,140,0,0
+
+
+
+"","All figures are rounded to avoid disclosure. Values may be rounded down"
+"","to zero and so all zeros are not necessarily true zeros. Totals across"
+"","tables may differ by minor amounts due to the disclosure methods used."
+"","Furthermore, figures may differ by small amounts from those published in"
+"","ONS outputs"
+"","due to the application of a different rounding methodology."
+"",""
+
+"","Disclosure control methods were revised on 6th October 2015. Users may notice"
+"","minor changes to some cell counts when comparing with data downloaded prior"
+"","to this date."
+"",""
+
+"","In 2015, ONS extended the coverage of businesses to include a population of"
+"","solely PAYE based businesses that were previously excluded because of the risk"
+"","of duplication. In total, in 2015, 105,000 businesses have been"
+"","added.Improvements in matching of administrative data and research into those units excluded"
+"","has indicated that the risk of duplication is very small. The addition of"
+"","these businesses brings the publication in line with Business Demography and the"
+"","BIS Business Population Estimates, both of which include these businesses. For"
+"","more information, see"
+"","http://www.nomisweb.co.uk/articles/news/files/UKBusinessCoverage.pdf"
+"",""
+

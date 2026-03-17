@@ -1,0 +1,1265 @@
+year,size,industry,site_count
+2011,Total,"A : Agriculture, forestry and fishing",142210
+2011,Total,B : Mining and quarrying,2190
+2011,Total,C : Manufacturing,133950
+2011,Total,"D : Electricity, gas, steam and air conditioning supply",1685
+2011,Total,"E : Water supply; sewerage, waste management and remediation activities",10045
+2011,Total,F : Construction,271990
+2011,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,484885
+2011,Total,H : Transportation and storage,82270
+2011,Total,I : Accommodation and food service activities,163060
+2011,Total,J : Information and communication,156020
+2011,Total,"M : Professional, scientific and technical activities",348945
+2011,Total,N : Administrative and support service activities,177080
+2011,Total,"R : Arts, entertainment and recreation",76740
+2011,Total,S : Other service activities,103260
+2011,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2011,Total,U : Activities of extraterritorial organisations and bodies,5
+2012,Total,"A : Agriculture, forestry and fishing",142070
+2012,Total,B : Mining and quarrying,2165
+2012,Total,C : Manufacturing,135475
+2012,Total,"D : Electricity, gas, steam and air conditioning supply",2215
+2012,Total,"E : Water supply; sewerage, waste management and remediation activities",10495
+2012,Total,F : Construction,273605
+2012,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,489445
+2012,Total,H : Transportation and storage,83060
+2012,Total,I : Accommodation and food service activities,167880
+2012,Total,J : Information and communication,167245
+2012,Total,"M : Professional, scientific and technical activities",371275
+2012,Total,N : Administrative and support service activities,179860
+2012,Total,"R : Arts, entertainment and recreation",77885
+2012,Total,S : Other service activities,106170
+2012,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2012,Total,U : Activities of extraterritorial organisations and bodies,10
+2013,Total,"A : Agriculture, forestry and fishing",147070
+2013,Total,B : Mining and quarrying,2290
+2013,Total,C : Manufacturing,137045
+2013,Total,"D : Electricity, gas, steam and air conditioning supply",3000
+2013,Total,"E : Water supply; sewerage, waste management and remediation activities",10850
+2013,Total,F : Construction,266850
+2013,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,486570
+2013,Total,H : Transportation and storage,84730
+2013,Total,I : Accommodation and food service activities,166920
+2013,Total,J : Information and communication,173610
+2013,Total,"M : Professional, scientific and technical activities",385240
+2013,Total,N : Administrative and support service activities,178305
+2013,Total,"R : Arts, entertainment and recreation",77905
+2013,Total,S : Other service activities,100765
+2013,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2013,Total,U : Activities of extraterritorial organisations and bodies,10
+2014,Total,"A : Agriculture, forestry and fishing",148600
+2014,Total,B : Mining and quarrying,2090
+2014,Total,C : Manufacturing,137305
+2014,Total,"D : Electricity, gas, steam and air conditioning supply",3595
+2014,Total,"E : Water supply; sewerage, waste management and remediation activities",10920
+2014,Total,F : Construction,275415
+2014,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,491120
+2014,Total,H : Transportation and storage,89070
+2014,Total,I : Accommodation and food service activities,171810
+2014,Total,J : Information and communication,187430
+2014,Total,"M : Professional, scientific and technical activities",415125
+2014,Total,N : Administrative and support service activities,191830
+2014,Total,"R : Arts, entertainment and recreation",78805
+2014,Total,S : Other service activities,102060
+2014,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2014,Total,U : Activities of extraterritorial organisations and bodies,10
+2015,Total,"A : Agriculture, forestry and fishing",150215
+2015,Total,B : Mining and quarrying,2105
+2015,Total,C : Manufacturing,140995
+2015,Total,"D : Electricity, gas, steam and air conditioning supply",4495
+2015,Total,"E : Water supply; sewerage, waste management and remediation activities",10975
+2015,Total,F : Construction,293820
+2015,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,497370
+2015,Total,H : Transportation and storage,99615
+2015,Total,I : Accommodation and food service activities,186310
+2015,Total,J : Information and communication,201025
+2015,Total,"M : Professional, scientific and technical activities",455265
+2015,Total,N : Administrative and support service activities,232165
+2015,Total,"R : Arts, entertainment and recreation",81125
+2015,Total,S : Other service activities,117210
+2015,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,Total,U : Activities of extraterritorial organisations and bodies,10
+2016,Total,"A : Agriculture, forestry and fishing",150870
+2016,Total,B : Mining and quarrying,2080
+2016,Total,C : Manufacturing,144180
+2016,Total,"D : Electricity, gas, steam and air conditioning supply",5505
+2016,Total,"E : Water supply; sewerage, waste management and remediation activities",11205
+2016,Total,F : Construction,311375
+2016,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,497560
+2016,Total,H : Transportation and storage,110245
+2016,Total,I : Accommodation and food service activities,187865
+2016,Total,J : Information and communication,215410
+2016,Total,"M : Professional, scientific and technical activities",478500
+2016,Total,N : Administrative and support service activities,247595
+2016,Total,"R : Arts, entertainment and recreation",82355
+2016,Total,S : Other service activities,118095
+2016,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,Total,U : Activities of extraterritorial organisations and bodies,5
+2017,Total,"A : Agriculture, forestry and fishing",152205
+2017,Total,B : Mining and quarrying,2035
+2017,Total,C : Manufacturing,146190
+2017,Total,"D : Electricity, gas, steam and air conditioning supply",5995
+2017,Total,"E : Water supply; sewerage, waste management and remediation activities",11375
+2017,Total,F : Construction,329875
+2017,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,502890
+2017,Total,H : Transportation and storage,126560
+2017,Total,I : Accommodation and food service activities,192330
+2017,Total,J : Information and communication,225645
+2017,Total,"M : Professional, scientific and technical activities",498350
+2017,Total,N : Administrative and support service activities,270035
+2017,Total,"R : Arts, entertainment and recreation",83270
+2017,Total,S : Other service activities,118065
+2017,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,Total,U : Activities of extraterritorial organisations and bodies,5
+2018,Total,"A : Agriculture, forestry and fishing",153400
+2018,Total,B : Mining and quarrying,2110
+2018,Total,C : Manufacturing,147230
+2018,Total,"D : Electricity, gas, steam and air conditioning supply",6455
+2018,Total,"E : Water supply; sewerage, waste management and remediation activities",11505
+2018,Total,F : Construction,341915
+2018,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,508005
+2018,Total,H : Transportation and storage,126370
+2018,Total,I : Accommodation and food service activities,198740
+2018,Total,J : Information and communication,228080
+2018,Total,"M : Professional, scientific and technical activities",488645
+2018,Total,N : Administrative and support service activities,264505
+2018,Total,"R : Arts, entertainment and recreation",85125
+2018,Total,S : Other service activities,118275
+2018,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2018,Total,U : Activities of extraterritorial organisations and bodies,5
+2019,Total,"A : Agriculture, forestry and fishing",153725
+2019,Total,B : Mining and quarrying,2155
+2019,Total,C : Manufacturing,148550
+2019,Total,"D : Electricity, gas, steam and air conditioning supply",6535
+2019,Total,"E : Water supply; sewerage, waste management and remediation activities",11765
+2019,Total,F : Construction,353620
+2019,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,517610
+2019,Total,H : Transportation and storage,128235
+2019,Total,I : Accommodation and food service activities,204275
+2019,Total,J : Information and communication,234930
+2019,Total,"M : Professional, scientific and technical activities",492945
+2019,Total,N : Administrative and support service activities,268870
+2019,Total,"R : Arts, entertainment and recreation",87330
+2019,Total,S : Other service activities,118620
+2019,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2019,Total,U : Activities of extraterritorial organisations and bodies,5
+2020,Total,"A : Agriculture, forestry and fishing",152925
+2020,Total,B : Mining and quarrying,2210
+2020,Total,C : Manufacturing,148945
+2020,Total,"D : Electricity, gas, steam and air conditioning supply",6695
+2020,Total,"E : Water supply; sewerage, waste management and remediation activities",11950
+2020,Total,F : Construction,361520
+2020,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,515990
+2020,Total,H : Transportation and storage,140005
+2020,Total,I : Accommodation and food service activities,211635
+2020,Total,J : Information and communication,234325
+2020,Total,"M : Professional, scientific and technical activities",489170
+2020,Total,N : Administrative and support service activities,274530
+2020,Total,"R : Arts, entertainment and recreation",88280
+2020,Total,S : Other service activities,119155
+2020,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2020,Total,U : Activities of extraterritorial organisations and bodies,5
+2021,Total,"A : Agriculture, forestry and fishing",145025
+2021,Total,B : Mining and quarrying,2115
+2021,Total,C : Manufacturing,151200
+2021,Total,"D : Electricity, gas, steam and air conditioning supply",6845
+2021,Total,"E : Water supply; sewerage, waste management and remediation activities",12180
+2021,Total,F : Construction,370105
+2021,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,532275
+2021,Total,H : Transportation and storage,154950
+2021,Total,I : Accommodation and food service activities,215430
+2021,Total,J : Information and communication,221240
+2021,Total,"M : Professional, scientific and technical activities",474190
+2021,Total,N : Administrative and support service activities,272760
+2021,Total,"R : Arts, entertainment and recreation",86280
+2021,Total,S : Other service activities,120140
+2021,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2021,Total,U : Activities of extraterritorial organisations and bodies,5
+2022,Total,"A : Agriculture, forestry and fishing",146420
+2022,Total,B : Mining and quarrying,2120
+2022,Total,C : Manufacturing,149325
+2022,Total,"D : Electricity, gas, steam and air conditioning supply",7195
+2022,Total,"E : Water supply; sewerage, waste management and remediation activities",12560
+2022,Total,F : Construction,385755
+2022,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,536650
+2022,Total,H : Transportation and storage,154665
+2022,Total,I : Accommodation and food service activities,223225
+2022,Total,J : Information and communication,204475
+2022,Total,"M : Professional, scientific and technical activities",451995
+2022,Total,N : Administrative and support service activities,272675
+2022,Total,"R : Arts, entertainment and recreation",88245
+2022,Total,S : Other service activities,121875
+2022,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2022,Total,U : Activities of extraterritorial organisations and bodies,5
+2023,Total,"A : Agriculture, forestry and fishing",145250
+2023,Total,B : Mining and quarrying,2120
+2023,Total,C : Manufacturing,146805
+2023,Total,"D : Electricity, gas, steam and air conditioning supply",6920
+2023,Total,"E : Water supply; sewerage, waste management and remediation activities",12715
+2023,Total,F : Construction,388205
+2023,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,521730
+2023,Total,H : Transportation and storage,145195
+2023,Total,I : Accommodation and food service activities,222595
+2023,Total,J : Information and communication,195495
+2023,Total,"M : Professional, scientific and technical activities",436450
+2023,Total,N : Administrative and support service activities,269770
+2023,Total,"R : Arts, entertainment and recreation",89950
+2023,Total,S : Other service activities,124060
+2023,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2023,Total,U : Activities of extraterritorial organisations and bodies,5
+2024,Total,"A : Agriculture, forestry and fishing",145055
+2024,Total,B : Mining and quarrying,2040
+2024,Total,C : Manufacturing,143185
+2024,Total,"D : Electricity, gas, steam and air conditioning supply",6990
+2024,Total,"E : Water supply; sewerage, waste management and remediation activities",12775
+2024,Total,F : Construction,391195
+2024,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,516570
+2024,Total,H : Transportation and storage,133455
+2024,Total,I : Accommodation and food service activities,222130
+2024,Total,J : Information and communication,195720
+2024,Total,"M : Professional, scientific and technical activities",439210
+2024,Total,N : Administrative and support service activities,269865
+2024,Total,"R : Arts, entertainment and recreation",92335
+2024,Total,S : Other service activities,125675
+2024,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2024,Total,U : Activities of extraterritorial organisations and bodies,5
+2025,Total,"A : Agriculture, forestry and fishing",144600
+2025,Total,B : Mining and quarrying,1980
+2025,Total,C : Manufacturing,141105
+2025,Total,"D : Electricity, gas, steam and air conditioning supply",7815
+2025,Total,"E : Water supply; sewerage, waste management and remediation activities",12915
+2025,Total,F : Construction,396345
+2025,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,514050
+2025,Total,H : Transportation and storage,130730
+2025,Total,I : Accommodation and food service activities,223830
+2025,Total,J : Information and communication,195765
+2025,Total,"M : Professional, scientific and technical activities",441570
+2025,Total,N : Administrative and support service activities,263900
+2025,Total,"R : Arts, entertainment and recreation",94170
+2025,Total,S : Other service activities,127495
+2025,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2025,Total,U : Activities of extraterritorial organisations and bodies,5
+2010,Total,"A : Agriculture, forestry and fishing",135630
+2010,Total,B : Mining and quarrying,1535
+2010,Total,C : Manufacturing,103150
+2010,Total,"D : Electricity, gas, steam and air conditioning supply",745
+2010,Total,"E : Water supply; sewerage, waste management and remediation activities",6680
+2010,Total,F : Construction,259445
+2010,Total,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,400380
+2010,Total,H : Transportation and storage,66990
+2010,Total,I : Accommodation and food service activities,125675
+2010,Total,J : Information and communication,141190
+2010,Total,"M : Professional, scientific and technical activities",312405
+2010,Total,N : Administrative and support service activities,157150
+2010,Total,"R : Arts, entertainment and recreation",65285
+2010,Total,S : Other service activities,96040
+2010,Total,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2010,Total,U : Activities of extraterritorial organisations and bodies,20
+2011,Micro (0 to 9),"A : Agriculture, forestry and fishing",137895
+2011,Micro (0 to 9),B : Mining and quarrying,1505
+2011,Micro (0 to 9),C : Manufacturing,99415
+2011,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",940
+2011,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",7040
+2011,Micro (0 to 9),F : Construction,250215
+2011,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,396645
+2011,Micro (0 to 9),H : Transportation and storage,65790
+2011,Micro (0 to 9),I : Accommodation and food service activities,118450
+2011,Micro (0 to 9),J : Information and communication,143905
+2011,Micro (0 to 9),"M : Professional, scientific and technical activities",319030
+2011,Micro (0 to 9),N : Administrative and support service activities,150670
+2011,Micro (0 to 9),"R : Arts, entertainment and recreation",64460
+2011,Micro (0 to 9),S : Other service activities,92510
+2011,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2011,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2012,Micro (0 to 9),"A : Agriculture, forestry and fishing",137425
+2012,Micro (0 to 9),B : Mining and quarrying,1500
+2012,Micro (0 to 9),C : Manufacturing,100800
+2012,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",1505
+2012,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",7320
+2012,Micro (0 to 9),F : Construction,252375
+2012,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,398990
+2012,Micro (0 to 9),H : Transportation and storage,66450
+2012,Micro (0 to 9),I : Accommodation and food service activities,120810
+2012,Micro (0 to 9),J : Information and communication,154210
+2012,Micro (0 to 9),"M : Professional, scientific and technical activities",340590
+2012,Micro (0 to 9),N : Administrative and support service activities,151975
+2012,Micro (0 to 9),"R : Arts, entertainment and recreation",65500
+2012,Micro (0 to 9),S : Other service activities,95145
+2012,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2012,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,5
+2013,Micro (0 to 9),"A : Agriculture, forestry and fishing",142325
+2013,Micro (0 to 9),B : Mining and quarrying,1600
+2013,Micro (0 to 9),C : Manufacturing,102020
+2013,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",2210
+2013,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",7565
+2013,Micro (0 to 9),F : Construction,245330
+2013,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,394815
+2013,Micro (0 to 9),H : Transportation and storage,67295
+2013,Micro (0 to 9),I : Accommodation and food service activities,117135
+2013,Micro (0 to 9),J : Information and communication,160140
+2013,Micro (0 to 9),"M : Professional, scientific and technical activities",353730
+2013,Micro (0 to 9),N : Administrative and support service activities,150030
+2013,Micro (0 to 9),"R : Arts, entertainment and recreation",65280
+2013,Micro (0 to 9),S : Other service activities,89305
+2013,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2013,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,5
+2014,Micro (0 to 9),"A : Agriculture, forestry and fishing",143835
+2014,Micro (0 to 9),B : Mining and quarrying,1420
+2014,Micro (0 to 9),C : Manufacturing,102365
+2014,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",2755
+2014,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",7705
+2014,Micro (0 to 9),F : Construction,254215
+2014,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,397380
+2014,Micro (0 to 9),H : Transportation and storage,71615
+2014,Micro (0 to 9),I : Accommodation and food service activities,117785
+2014,Micro (0 to 9),J : Information and communication,173500
+2014,Micro (0 to 9),"M : Professional, scientific and technical activities",382775
+2014,Micro (0 to 9),N : Administrative and support service activities,162650
+2014,Micro (0 to 9),"R : Arts, entertainment and recreation",65875
+2014,Micro (0 to 9),S : Other service activities,90515
+2014,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2014,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,5
+2015,Micro (0 to 9),"A : Agriculture, forestry and fishing",145245
+2015,Micro (0 to 9),B : Mining and quarrying,1430
+2015,Micro (0 to 9),C : Manufacturing,105840
+2015,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",3575
+2015,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",7705
+2015,Micro (0 to 9),F : Construction,272155
+2015,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,401330
+2015,Micro (0 to 9),H : Transportation and storage,81985
+2015,Micro (0 to 9),I : Accommodation and food service activities,128230
+2015,Micro (0 to 9),J : Information and communication,186535
+2015,Micro (0 to 9),"M : Professional, scientific and technical activities",421635
+2015,Micro (0 to 9),N : Administrative and support service activities,201590
+2015,Micro (0 to 9),"R : Arts, entertainment and recreation",67670
+2015,Micro (0 to 9),S : Other service activities,105410
+2015,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,5
+2016,Micro (0 to 9),"A : Agriculture, forestry and fishing",145910
+2016,Micro (0 to 9),B : Mining and quarrying,1425
+2016,Micro (0 to 9),C : Manufacturing,109210
+2016,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",4470
+2016,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",7800
+2016,Micro (0 to 9),F : Construction,289465
+2016,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,400450
+2016,Micro (0 to 9),H : Transportation and storage,92290
+2016,Micro (0 to 9),I : Accommodation and food service activities,129150
+2016,Micro (0 to 9),J : Information and communication,200495
+2016,Micro (0 to 9),"M : Professional, scientific and technical activities",444100
+2016,Micro (0 to 9),N : Administrative and support service activities,216155
+2016,Micro (0 to 9),"R : Arts, entertainment and recreation",68805
+2016,Micro (0 to 9),S : Other service activities,106430
+2016,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2017,Micro (0 to 9),"A : Agriculture, forestry and fishing",147490
+2017,Micro (0 to 9),B : Mining and quarrying,1375
+2017,Micro (0 to 9),C : Manufacturing,111235
+2017,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",4920
+2017,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",7940
+2017,Micro (0 to 9),F : Construction,307390
+2017,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,405465
+2017,Micro (0 to 9),H : Transportation and storage,108050
+2017,Micro (0 to 9),I : Accommodation and food service activities,131200
+2017,Micro (0 to 9),J : Information and communication,210300
+2017,Micro (0 to 9),"M : Professional, scientific and technical activities",463175
+2017,Micro (0 to 9),N : Administrative and support service activities,237200
+2017,Micro (0 to 9),"R : Arts, entertainment and recreation",69545
+2017,Micro (0 to 9),S : Other service activities,106350
+2017,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2018,Micro (0 to 9),"A : Agriculture, forestry and fishing",148635
+2018,Micro (0 to 9),B : Mining and quarrying,1475
+2018,Micro (0 to 9),C : Manufacturing,112185
+2018,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",5335
+2018,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",7965
+2018,Micro (0 to 9),F : Construction,319010
+2018,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,409775
+2018,Micro (0 to 9),H : Transportation and storage,108115
+2018,Micro (0 to 9),I : Accommodation and food service activities,135405
+2018,Micro (0 to 9),J : Information and communication,212185
+2018,Micro (0 to 9),"M : Professional, scientific and technical activities",452680
+2018,Micro (0 to 9),N : Administrative and support service activities,231240
+2018,Micro (0 to 9),"R : Arts, entertainment and recreation",71240
+2018,Micro (0 to 9),S : Other service activities,106460
+2018,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2018,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2019,Micro (0 to 9),"A : Agriculture, forestry and fishing",148860
+2019,Micro (0 to 9),B : Mining and quarrying,1495
+2019,Micro (0 to 9),C : Manufacturing,113785
+2019,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",5410
+2019,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",8165
+2019,Micro (0 to 9),F : Construction,330505
+2019,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,418735
+2019,Micro (0 to 9),H : Transportation and storage,109675
+2019,Micro (0 to 9),I : Accommodation and food service activities,140240
+2019,Micro (0 to 9),J : Information and communication,218680
+2019,Micro (0 to 9),"M : Professional, scientific and technical activities",455975
+2019,Micro (0 to 9),N : Administrative and support service activities,234585
+2019,Micro (0 to 9),"R : Arts, entertainment and recreation",73285
+2019,Micro (0 to 9),S : Other service activities,106975
+2019,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2019,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2020,Micro (0 to 9),"A : Agriculture, forestry and fishing",148000
+2020,Micro (0 to 9),B : Mining and quarrying,1545
+2020,Micro (0 to 9),C : Manufacturing,114375
+2020,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",5560
+2020,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",8310
+2020,Micro (0 to 9),F : Construction,338180
+2020,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,417610
+2020,Micro (0 to 9),H : Transportation and storage,121345
+2020,Micro (0 to 9),I : Accommodation and food service activities,146505
+2020,Micro (0 to 9),J : Information and communication,217630
+2020,Micro (0 to 9),"M : Professional, scientific and technical activities",451760
+2020,Micro (0 to 9),N : Administrative and support service activities,240095
+2020,Micro (0 to 9),"R : Arts, entertainment and recreation",74155
+2020,Micro (0 to 9),S : Other service activities,107670
+2020,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2020,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2021,Micro (0 to 9),"A : Agriculture, forestry and fishing",140010
+2021,Micro (0 to 9),B : Mining and quarrying,1455
+2021,Micro (0 to 9),C : Manufacturing,116905
+2021,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",5685
+2021,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",8555
+2021,Micro (0 to 9),F : Construction,346905
+2021,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,435800
+2021,Micro (0 to 9),H : Transportation and storage,136485
+2021,Micro (0 to 9),I : Accommodation and food service activities,152565
+2021,Micro (0 to 9),J : Information and communication,204305
+2021,Micro (0 to 9),"M : Professional, scientific and technical activities",436780
+2021,Micro (0 to 9),N : Administrative and support service activities,238725
+2021,Micro (0 to 9),"R : Arts, entertainment and recreation",72550
+2021,Micro (0 to 9),S : Other service activities,109000
+2021,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2021,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2022,Micro (0 to 9),"A : Agriculture, forestry and fishing",141260
+2022,Micro (0 to 9),B : Mining and quarrying,1455
+2022,Micro (0 to 9),C : Manufacturing,115150
+2022,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",5975
+2022,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",8910
+2022,Micro (0 to 9),F : Construction,361515
+2022,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,441625
+2022,Micro (0 to 9),H : Transportation and storage,135505
+2022,Micro (0 to 9),I : Accommodation and food service activities,159415
+2022,Micro (0 to 9),J : Information and communication,186730
+2022,Micro (0 to 9),"M : Professional, scientific and technical activities",413680
+2022,Micro (0 to 9),N : Administrative and support service activities,238255
+2022,Micro (0 to 9),"R : Arts, entertainment and recreation",74730
+2022,Micro (0 to 9),S : Other service activities,111190
+2022,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,5
+2022,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,5
+2023,Micro (0 to 9),"A : Agriculture, forestry and fishing",139970
+2023,Micro (0 to 9),B : Mining and quarrying,1450
+2023,Micro (0 to 9),C : Manufacturing,112740
+2023,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",5860
+2023,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",8970
+2023,Micro (0 to 9),F : Construction,363540
+2023,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,426905
+2023,Micro (0 to 9),H : Transportation and storage,126135
+2023,Micro (0 to 9),I : Accommodation and food service activities,155985
+2023,Micro (0 to 9),J : Information and communication,177115
+2023,Micro (0 to 9),"M : Professional, scientific and technical activities",397095
+2023,Micro (0 to 9),N : Administrative and support service activities,234075
+2023,Micro (0 to 9),"R : Arts, entertainment and recreation",75950
+2023,Micro (0 to 9),S : Other service activities,113185
+2023,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2023,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,5
+2024,Micro (0 to 9),"A : Agriculture, forestry and fishing",139630
+2024,Micro (0 to 9),B : Mining and quarrying,1425
+2024,Micro (0 to 9),C : Manufacturing,109745
+2024,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",5930
+2024,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",8945
+2024,Micro (0 to 9),F : Construction,366940
+2024,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,421160
+2024,Micro (0 to 9),H : Transportation and storage,115180
+2024,Micro (0 to 9),I : Accommodation and food service activities,155320
+2024,Micro (0 to 9),J : Information and communication,177235
+2024,Micro (0 to 9),"M : Professional, scientific and technical activities",399140
+2024,Micro (0 to 9),N : Administrative and support service activities,234505
+2024,Micro (0 to 9),"R : Arts, entertainment and recreation",77745
+2024,Micro (0 to 9),S : Other service activities,114915
+2024,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2024,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2025,Micro (0 to 9),"A : Agriculture, forestry and fishing",139070
+2025,Micro (0 to 9),B : Mining and quarrying,1365
+2025,Micro (0 to 9),C : Manufacturing,108320
+2025,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",6785
+2025,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",9085
+2025,Micro (0 to 9),F : Construction,372250
+2025,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,418650
+2025,Micro (0 to 9),H : Transportation and storage,112675
+2025,Micro (0 to 9),I : Accommodation and food service activities,156780
+2025,Micro (0 to 9),J : Information and communication,177545
+2025,Micro (0 to 9),"M : Professional, scientific and technical activities",400895
+2025,Micro (0 to 9),N : Administrative and support service activities,226495
+2025,Micro (0 to 9),"R : Arts, entertainment and recreation",79520
+2025,Micro (0 to 9),S : Other service activities,116650
+2025,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2025,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,0
+2010,Micro (0 to 9),"A : Agriculture, forestry and fishing",4195
+2010,Micro (0 to 9),B : Mining and quarrying,535
+2010,Micro (0 to 9),C : Manufacturing,27205
+2010,Micro (0 to 9),"D : Electricity, gas, steam and air conditioning supply",355
+2010,Micro (0 to 9),"E : Water supply; sewerage, waste management and remediation activities",2205
+2010,Micro (0 to 9),F : Construction,20455
+2010,Micro (0 to 9),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,75810
+2010,Micro (0 to 9),H : Transportation and storage,12140
+2010,Micro (0 to 9),I : Accommodation and food service activities,40790
+2010,Micro (0 to 9),J : Information and communication,9650
+2010,Micro (0 to 9),"M : Professional, scientific and technical activities",25510
+2010,Micro (0 to 9),N : Administrative and support service activities,19655
+2010,Micro (0 to 9),"R : Arts, entertainment and recreation",9765
+2010,Micro (0 to 9),S : Other service activities,9895
+2010,Micro (0 to 9),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2010,Micro (0 to 9),U : Activities of extraterritorial organisations and bodies,10
+2011,Small (10 to 49),"A : Agriculture, forestry and fishing",3995
+2011,Small (10 to 49),B : Mining and quarrying,490
+2011,Small (10 to 49),C : Manufacturing,25655
+2011,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",375
+2011,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2300
+2011,Small (10 to 49),F : Construction,18340
+2011,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,76115
+2011,Small (10 to 49),H : Transportation and storage,11825
+2011,Small (10 to 49),I : Accommodation and food service activities,39980
+2011,Small (10 to 49),J : Information and communication,9310
+2011,Small (10 to 49),"M : Professional, scientific and technical activities",24885
+2011,Small (10 to 49),N : Administrative and support service activities,19165
+2011,Small (10 to 49),"R : Arts, entertainment and recreation",9780
+2011,Small (10 to 49),S : Other service activities,9705
+2011,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2011,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2012,Small (10 to 49),"A : Agriculture, forestry and fishing",4260
+2012,Small (10 to 49),B : Mining and quarrying,480
+2012,Small (10 to 49),C : Manufacturing,25865
+2012,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",380
+2012,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2440
+2012,Small (10 to 49),F : Construction,17955
+2012,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,78340
+2012,Small (10 to 49),H : Transportation and storage,12000
+2012,Small (10 to 49),I : Accommodation and food service activities,42380
+2012,Small (10 to 49),J : Information and communication,10160
+2012,Small (10 to 49),"M : Professional, scientific and technical activities",25645
+2012,Small (10 to 49),N : Administrative and support service activities,20420
+2012,Small (10 to 49),"R : Arts, entertainment and recreation",9880
+2012,Small (10 to 49),S : Other service activities,9980
+2012,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2012,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,5
+2013,Small (10 to 49),"A : Agriculture, forestry and fishing",4335
+2013,Small (10 to 49),B : Mining and quarrying,505
+2013,Small (10 to 49),C : Manufacturing,26175
+2013,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",435
+2013,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2535
+2013,Small (10 to 49),F : Construction,18360
+2013,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,79560
+2013,Small (10 to 49),H : Transportation and storage,12630
+2013,Small (10 to 49),I : Accommodation and food service activities,44940
+2013,Small (10 to 49),J : Information and communication,10550
+2013,Small (10 to 49),"M : Professional, scientific and technical activities",26335
+2013,Small (10 to 49),N : Administrative and support service activities,20780
+2013,Small (10 to 49),"R : Arts, entertainment and recreation",10165
+2013,Small (10 to 49),S : Other service activities,10410
+2013,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2013,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2014,Small (10 to 49),"A : Agriculture, forestry and fishing",4350
+2014,Small (10 to 49),B : Mining and quarrying,490
+2014,Small (10 to 49),C : Manufacturing,26110
+2014,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",465
+2014,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2475
+2014,Small (10 to 49),F : Construction,18170
+2014,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,81370
+2014,Small (10 to 49),H : Transportation and storage,12695
+2014,Small (10 to 49),I : Accommodation and food service activities,49000
+2014,Small (10 to 49),J : Information and communication,10915
+2014,Small (10 to 49),"M : Professional, scientific and technical activities",27025
+2014,Small (10 to 49),N : Administrative and support service activities,21550
+2014,Small (10 to 49),"R : Arts, entertainment and recreation",10400
+2014,Small (10 to 49),S : Other service activities,10505
+2014,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2014,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2015,Small (10 to 49),"A : Agriculture, forestry and fishing",4525
+2015,Small (10 to 49),B : Mining and quarrying,485
+2015,Small (10 to 49),C : Manufacturing,26225
+2015,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",550
+2015,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2525
+2015,Small (10 to 49),F : Construction,18595
+2015,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,83540
+2015,Small (10 to 49),H : Transportation and storage,12815
+2015,Small (10 to 49),I : Accommodation and food service activities,52675
+2015,Small (10 to 49),J : Information and communication,11365
+2015,Small (10 to 49),"M : Professional, scientific and technical activities",28020
+2015,Small (10 to 49),N : Administrative and support service activities,22865
+2015,Small (10 to 49),"R : Arts, entertainment and recreation",10835
+2015,Small (10 to 49),S : Other service activities,10700
+2015,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2016,Small (10 to 49),"A : Agriculture, forestry and fishing",4490
+2016,Small (10 to 49),B : Mining and quarrying,475
+2016,Small (10 to 49),C : Manufacturing,25965
+2016,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",655
+2016,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2640
+2016,Small (10 to 49),F : Construction,18770
+2016,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,84400
+2016,Small (10 to 49),H : Transportation and storage,12960
+2016,Small (10 to 49),I : Accommodation and food service activities,53170
+2016,Small (10 to 49),J : Information and communication,11715
+2016,Small (10 to 49),"M : Professional, scientific and technical activities",28505
+2016,Small (10 to 49),N : Administrative and support service activities,23415
+2016,Small (10 to 49),"R : Arts, entertainment and recreation",10875
+2016,Small (10 to 49),S : Other service activities,10560
+2016,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2017,Small (10 to 49),"A : Agriculture, forestry and fishing",4225
+2017,Small (10 to 49),B : Mining and quarrying,485
+2017,Small (10 to 49),C : Manufacturing,25975
+2017,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",685
+2017,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2655
+2017,Small (10 to 49),F : Construction,19260
+2017,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,84695
+2017,Small (10 to 49),H : Transportation and storage,13435
+2017,Small (10 to 49),I : Accommodation and food service activities,55285
+2017,Small (10 to 49),J : Information and communication,12075
+2017,Small (10 to 49),"M : Professional, scientific and technical activities",29185
+2017,Small (10 to 49),N : Administrative and support service activities,24750
+2017,Small (10 to 49),"R : Arts, entertainment and recreation",10965
+2017,Small (10 to 49),S : Other service activities,10590
+2017,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2018,Small (10 to 49),"A : Agriculture, forestry and fishing",4245
+2018,Small (10 to 49),B : Mining and quarrying,470
+2018,Small (10 to 49),C : Manufacturing,25950
+2018,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",705
+2018,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2725
+2018,Small (10 to 49),F : Construction,19565
+2018,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,85480
+2018,Small (10 to 49),H : Transportation and storage,13055
+2018,Small (10 to 49),I : Accommodation and food service activities,57350
+2018,Small (10 to 49),J : Information and communication,12545
+2018,Small (10 to 49),"M : Professional, scientific and technical activities",29765
+2018,Small (10 to 49),N : Administrative and support service activities,24850
+2018,Small (10 to 49),"R : Arts, entertainment and recreation",11085
+2018,Small (10 to 49),S : Other service activities,10655
+2018,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2019,Small (10 to 49),"A : Agriculture, forestry and fishing",4315
+2019,Small (10 to 49),B : Mining and quarrying,485
+2019,Small (10 to 49),C : Manufacturing,25580
+2019,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",720
+2019,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2740
+2019,Small (10 to 49),F : Construction,19780
+2019,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,86115
+2019,Small (10 to 49),H : Transportation and storage,13315
+2019,Small (10 to 49),I : Accommodation and food service activities,57950
+2019,Small (10 to 49),J : Information and communication,12795
+2019,Small (10 to 49),"M : Professional, scientific and technical activities",30575
+2019,Small (10 to 49),N : Administrative and support service activities,25710
+2019,Small (10 to 49),"R : Arts, entertainment and recreation",11185
+2019,Small (10 to 49),S : Other service activities,10450
+2019,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2020,Small (10 to 49),"A : Agriculture, forestry and fishing",4370
+2020,Small (10 to 49),B : Mining and quarrying,490
+2020,Small (10 to 49),C : Manufacturing,25390
+2020,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",720
+2020,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2770
+2020,Small (10 to 49),F : Construction,19995
+2020,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,85730
+2020,Small (10 to 49),H : Transportation and storage,13340
+2020,Small (10 to 49),I : Accommodation and food service activities,58790
+2020,Small (10 to 49),J : Information and communication,13120
+2020,Small (10 to 49),"M : Professional, scientific and technical activities",30855
+2020,Small (10 to 49),N : Administrative and support service activities,25885
+2020,Small (10 to 49),"R : Arts, entertainment and recreation",11345
+2020,Small (10 to 49),S : Other service activities,10315
+2020,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2021,Small (10 to 49),"A : Agriculture, forestry and fishing",4450
+2021,Small (10 to 49),B : Mining and quarrying,480
+2021,Small (10 to 49),C : Manufacturing,25290
+2021,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",735
+2021,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2780
+2021,Small (10 to 49),F : Construction,19965
+2021,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,84380
+2021,Small (10 to 49),H : Transportation and storage,13180
+2021,Small (10 to 49),I : Accommodation and food service activities,56875
+2021,Small (10 to 49),J : Information and communication,13280
+2021,Small (10 to 49),"M : Professional, scientific and technical activities",30900
+2021,Small (10 to 49),N : Administrative and support service activities,25840
+2021,Small (10 to 49),"R : Arts, entertainment and recreation",11110
+2021,Small (10 to 49),S : Other service activities,9990
+2021,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2022,Small (10 to 49),"A : Agriculture, forestry and fishing",4600
+2022,Small (10 to 49),B : Mining and quarrying,500
+2022,Small (10 to 49),C : Manufacturing,25285
+2022,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",785
+2022,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2805
+2022,Small (10 to 49),F : Construction,21025
+2022,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,83075
+2022,Small (10 to 49),H : Transportation and storage,13855
+2022,Small (10 to 49),I : Accommodation and food service activities,57920
+2022,Small (10 to 49),J : Information and communication,13910
+2022,Small (10 to 49),"M : Professional, scientific and technical activities",31690
+2022,Small (10 to 49),N : Administrative and support service activities,26225
+2022,Small (10 to 49),"R : Arts, entertainment and recreation",10980
+2022,Small (10 to 49),S : Other service activities,9570
+2022,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2022,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2023,Small (10 to 49),"A : Agriculture, forestry and fishing",4660
+2023,Small (10 to 49),B : Mining and quarrying,500
+2023,Small (10 to 49),C : Manufacturing,25210
+2023,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",665
+2023,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2855
+2023,Small (10 to 49),F : Construction,21400
+2023,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,83005
+2023,Small (10 to 49),H : Transportation and storage,13620
+2023,Small (10 to 49),I : Accommodation and food service activities,60360
+2023,Small (10 to 49),J : Information and communication,14345
+2023,Small (10 to 49),"M : Professional, scientific and technical activities",32390
+2023,Small (10 to 49),N : Administrative and support service activities,27300
+2023,Small (10 to 49),"R : Arts, entertainment and recreation",11360
+2023,Small (10 to 49),S : Other service activities,9730
+2023,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2023,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2024,Small (10 to 49),"A : Agriculture, forestry and fishing",4790
+2024,Small (10 to 49),B : Mining and quarrying,450
+2024,Small (10 to 49),C : Manufacturing,24610
+2024,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",665
+2024,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2900
+2024,Small (10 to 49),F : Construction,20975
+2024,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,83630
+2024,Small (10 to 49),H : Transportation and storage,12735
+2024,Small (10 to 49),I : Accommodation and food service activities,60180
+2024,Small (10 to 49),J : Information and communication,14360
+2024,Small (10 to 49),"M : Professional, scientific and technical activities",32725
+2024,Small (10 to 49),N : Administrative and support service activities,27015
+2024,Small (10 to 49),"R : Arts, entertainment and recreation",11755
+2024,Small (10 to 49),S : Other service activities,9615
+2024,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2024,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2025,Small (10 to 49),"A : Agriculture, forestry and fishing",4870
+2025,Small (10 to 49),B : Mining and quarrying,450
+2025,Small (10 to 49),C : Manufacturing,24085
+2025,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",640
+2025,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",2875
+2025,Small (10 to 49),F : Construction,20800
+2025,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,83650
+2025,Small (10 to 49),H : Transportation and storage,12530
+2025,Small (10 to 49),I : Accommodation and food service activities,60320
+2025,Small (10 to 49),J : Information and communication,14140
+2025,Small (10 to 49),"M : Professional, scientific and technical activities",33175
+2025,Small (10 to 49),N : Administrative and support service activities,29265
+2025,Small (10 to 49),"R : Arts, entertainment and recreation",11765
+2025,Small (10 to 49),S : Other service activities,9670
+2025,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2025,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,0
+2010,Small (10 to 49),"A : Agriculture, forestry and fishing",285
+2010,Small (10 to 49),B : Mining and quarrying,155
+2010,Small (10 to 49),C : Manufacturing,7840
+2010,Small (10 to 49),"D : Electricity, gas, steam and air conditioning supply",240
+2010,Small (10 to 49),"E : Water supply; sewerage, waste management and remediation activities",640
+2010,Small (10 to 49),F : Construction,3370
+2010,Small (10 to 49),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10285
+2010,Small (10 to 49),H : Transportation and storage,3975
+2010,Small (10 to 49),I : Accommodation and food service activities,4145
+2010,Small (10 to 49),J : Information and communication,2350
+2010,Small (10 to 49),"M : Professional, scientific and technical activities",4305
+2010,Small (10 to 49),N : Administrative and support service activities,6365
+2010,Small (10 to 49),"R : Arts, entertainment and recreation",2250
+2010,Small (10 to 49),S : Other service activities,880
+2010,Small (10 to 49),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2010,Small (10 to 49),U : Activities of extraterritorial organisations and bodies,5
+2011,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",290
+2011,Medium-sized (50 to 249),B : Mining and quarrying,155
+2011,Medium-sized (50 to 249),C : Manufacturing,7515
+2011,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",270
+2011,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",640
+2011,Medium-sized (50 to 249),F : Construction,3150
+2011,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10260
+2011,Medium-sized (50 to 249),H : Transportation and storage,3960
+2011,Medium-sized (50 to 249),I : Accommodation and food service activities,4420
+2011,Medium-sized (50 to 249),J : Information and communication,2315
+2011,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",4320
+2011,Medium-sized (50 to 249),N : Administrative and support service activities,6050
+2011,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2315
+2011,Medium-sized (50 to 249),S : Other service activities,940
+2011,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2011,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,0
+2012,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",350
+2012,Medium-sized (50 to 249),B : Mining and quarrying,145
+2012,Medium-sized (50 to 249),C : Manufacturing,7460
+2012,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",225
+2012,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",675
+2012,Medium-sized (50 to 249),F : Construction,2990
+2012,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10280
+2012,Medium-sized (50 to 249),H : Transportation and storage,3890
+2012,Medium-sized (50 to 249),I : Accommodation and food service activities,4475
+2012,Medium-sized (50 to 249),J : Information and communication,2365
+2012,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",4290
+2012,Medium-sized (50 to 249),N : Administrative and support service activities,6215
+2012,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2330
+2012,Medium-sized (50 to 249),S : Other service activities,940
+2012,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2012,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,0
+2013,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",360
+2013,Medium-sized (50 to 249),B : Mining and quarrying,145
+2013,Medium-sized (50 to 249),C : Manufacturing,7505
+2013,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",250
+2013,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",685
+2013,Medium-sized (50 to 249),F : Construction,2890
+2013,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10365
+2013,Medium-sized (50 to 249),H : Transportation and storage,4065
+2013,Medium-sized (50 to 249),I : Accommodation and food service activities,4610
+2013,Medium-sized (50 to 249),J : Information and communication,2415
+2013,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",4375
+2013,Medium-sized (50 to 249),N : Administrative and support service activities,6190
+2013,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2280
+2013,Medium-sized (50 to 249),S : Other service activities,945
+2013,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2013,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2014,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",375
+2014,Medium-sized (50 to 249),B : Mining and quarrying,135
+2014,Medium-sized (50 to 249),C : Manufacturing,7480
+2014,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",270
+2014,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",665
+2014,Medium-sized (50 to 249),F : Construction,2775
+2014,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10540
+2014,Medium-sized (50 to 249),H : Transportation and storage,4005
+2014,Medium-sized (50 to 249),I : Accommodation and food service activities,4805
+2014,Medium-sized (50 to 249),J : Information and communication,2495
+2014,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",4515
+2014,Medium-sized (50 to 249),N : Administrative and support service activities,6270
+2014,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2345
+2014,Medium-sized (50 to 249),S : Other service activities,935
+2014,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2014,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2015,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",400
+2015,Medium-sized (50 to 249),B : Mining and quarrying,140
+2015,Medium-sized (50 to 249),C : Manufacturing,7535
+2015,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",255
+2015,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",680
+2015,Medium-sized (50 to 249),F : Construction,2820
+2015,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10790
+2015,Medium-sized (50 to 249),H : Transportation and storage,4055
+2015,Medium-sized (50 to 249),I : Accommodation and food service activities,5165
+2015,Medium-sized (50 to 249),J : Information and communication,2605
+2015,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",4715
+2015,Medium-sized (50 to 249),N : Administrative and support service activities,6290
+2015,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2430
+2015,Medium-sized (50 to 249),S : Other service activities,985
+2015,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2016,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",420
+2016,Medium-sized (50 to 249),B : Mining and quarrying,135
+2016,Medium-sized (50 to 249),C : Manufacturing,7615
+2016,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",270
+2016,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",690
+2016,Medium-sized (50 to 249),F : Construction,2895
+2016,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10970
+2016,Medium-sized (50 to 249),H : Transportation and storage,4205
+2016,Medium-sized (50 to 249),I : Accommodation and food service activities,5305
+2016,Medium-sized (50 to 249),J : Information and communication,2670
+2016,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",4940
+2016,Medium-sized (50 to 249),N : Administrative and support service activities,6540
+2016,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2480
+2016,Medium-sized (50 to 249),S : Other service activities,990
+2016,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2017,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",430
+2017,Medium-sized (50 to 249),B : Mining and quarrying,135
+2017,Medium-sized (50 to 249),C : Manufacturing,7590
+2017,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",275
+2017,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",705
+2017,Medium-sized (50 to 249),F : Construction,2965
+2017,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10980
+2017,Medium-sized (50 to 249),H : Transportation and storage,4275
+2017,Medium-sized (50 to 249),I : Accommodation and food service activities,5560
+2017,Medium-sized (50 to 249),J : Information and communication,2715
+2017,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",5040
+2017,Medium-sized (50 to 249),N : Administrative and support service activities,6615
+2017,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2555
+2017,Medium-sized (50 to 249),S : Other service activities,1000
+2017,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2018,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",445
+2018,Medium-sized (50 to 249),B : Mining and quarrying,130
+2018,Medium-sized (50 to 249),C : Manufacturing,7710
+2018,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",300
+2018,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",740
+2018,Medium-sized (50 to 249),F : Construction,3060
+2018,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,11065
+2018,Medium-sized (50 to 249),H : Transportation and storage,4370
+2018,Medium-sized (50 to 249),I : Accommodation and food service activities,5695
+2018,Medium-sized (50 to 249),J : Information and communication,2790
+2018,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",5230
+2018,Medium-sized (50 to 249),N : Administrative and support service activities,6865
+2018,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2565
+2018,Medium-sized (50 to 249),S : Other service activities,1035
+2018,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2019,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",475
+2019,Medium-sized (50 to 249),B : Mining and quarrying,135
+2019,Medium-sized (50 to 249),C : Manufacturing,7775
+2019,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",290
+2019,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",775
+2019,Medium-sized (50 to 249),F : Construction,3030
+2019,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,11145
+2019,Medium-sized (50 to 249),H : Transportation and storage,4405
+2019,Medium-sized (50 to 249),I : Accommodation and food service activities,5795
+2019,Medium-sized (50 to 249),J : Information and communication,2885
+2019,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",5395
+2019,Medium-sized (50 to 249),N : Administrative and support service activities,7015
+2019,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2625
+2019,Medium-sized (50 to 249),S : Other service activities,1070
+2019,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2020,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",475
+2020,Medium-sized (50 to 249),B : Mining and quarrying,135
+2020,Medium-sized (50 to 249),C : Manufacturing,7790
+2020,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",295
+2020,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",785
+2020,Medium-sized (50 to 249),F : Construction,3040
+2020,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,11105
+2020,Medium-sized (50 to 249),H : Transportation and storage,4445
+2020,Medium-sized (50 to 249),I : Accommodation and food service activities,6060
+2020,Medium-sized (50 to 249),J : Information and communication,2995
+2020,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",5525
+2020,Medium-sized (50 to 249),N : Administrative and support service activities,7000
+2020,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2555
+2020,Medium-sized (50 to 249),S : Other service activities,1045
+2020,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2021,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",480
+2021,Medium-sized (50 to 249),B : Mining and quarrying,140
+2021,Medium-sized (50 to 249),C : Manufacturing,7655
+2021,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",305
+2021,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",765
+2021,Medium-sized (50 to 249),F : Construction,2945
+2021,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10585
+2021,Medium-sized (50 to 249),H : Transportation and storage,4420
+2021,Medium-sized (50 to 249),I : Accommodation and food service activities,5725
+2021,Medium-sized (50 to 249),J : Information and communication,3065
+2021,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",5510
+2021,Medium-sized (50 to 249),N : Administrative and support service activities,6745
+2021,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2415
+2021,Medium-sized (50 to 249),S : Other service activities,1035
+2021,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,0
+2022,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",475
+2022,Medium-sized (50 to 249),B : Mining and quarrying,130
+2022,Medium-sized (50 to 249),C : Manufacturing,7565
+2022,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",330
+2022,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",760
+2022,Medium-sized (50 to 249),F : Construction,2965
+2022,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10375
+2022,Medium-sized (50 to 249),H : Transportation and storage,4455
+2022,Medium-sized (50 to 249),I : Accommodation and food service activities,5635
+2022,Medium-sized (50 to 249),J : Information and communication,3230
+2022,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",5585
+2022,Medium-sized (50 to 249),N : Administrative and support service activities,6740
+2022,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2335
+2022,Medium-sized (50 to 249),S : Other service activities,995
+2022,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2022,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,0
+2023,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",530
+2023,Medium-sized (50 to 249),B : Mining and quarrying,135
+2023,Medium-sized (50 to 249),C : Manufacturing,7505
+2023,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",300
+2023,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",800
+2023,Medium-sized (50 to 249),F : Construction,3020
+2023,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10270
+2023,Medium-sized (50 to 249),H : Transportation and storage,4565
+2023,Medium-sized (50 to 249),I : Accommodation and food service activities,5985
+2023,Medium-sized (50 to 249),J : Information and communication,3400
+2023,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",5865
+2023,Medium-sized (50 to 249),N : Administrative and support service activities,6915
+2023,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2435
+2023,Medium-sized (50 to 249),S : Other service activities,1025
+2023,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2023,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2024,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",545
+2024,Medium-sized (50 to 249),B : Mining and quarrying,130
+2024,Medium-sized (50 to 249),C : Manufacturing,7465
+2024,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",300
+2024,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",825
+2024,Medium-sized (50 to 249),F : Construction,3030
+2024,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10305
+2024,Medium-sized (50 to 249),H : Transportation and storage,4600
+2024,Medium-sized (50 to 249),I : Accommodation and food service activities,6330
+2024,Medium-sized (50 to 249),J : Information and communication,3460
+2024,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",6165
+2024,Medium-sized (50 to 249),N : Administrative and support service activities,6840
+2024,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2625
+2024,Medium-sized (50 to 249),S : Other service activities,1020
+2024,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2024,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,5
+2025,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",555
+2025,Medium-sized (50 to 249),B : Mining and quarrying,135
+2025,Medium-sized (50 to 249),C : Manufacturing,7355
+2025,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",280
+2025,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",850
+2025,Medium-sized (50 to 249),F : Construction,3035
+2025,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,10345
+2025,Medium-sized (50 to 249),H : Transportation and storage,4545
+2025,Medium-sized (50 to 249),I : Accommodation and food service activities,6400
+2025,Medium-sized (50 to 249),J : Information and communication,3430
+2025,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",6280
+2025,Medium-sized (50 to 249),N : Administrative and support service activities,6770
+2025,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",2665
+2025,Medium-sized (50 to 249),S : Other service activities,1035
+2025,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2025,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,0
+2010,Medium-sized (50 to 249),"A : Agriculture, forestry and fishing",25
+2010,Medium-sized (50 to 249),B : Mining and quarrying,35
+2010,Medium-sized (50 to 249),C : Manufacturing,1420
+2010,Medium-sized (50 to 249),"D : Electricity, gas, steam and air conditioning supply",100
+2010,Medium-sized (50 to 249),"E : Water supply; sewerage, waste management and remediation activities",65
+2010,Medium-sized (50 to 249),F : Construction,310
+2010,Medium-sized (50 to 249),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1915
+2010,Medium-sized (50 to 249),H : Transportation and storage,720
+2010,Medium-sized (50 to 249),I : Accommodation and food service activities,185
+2010,Medium-sized (50 to 249),J : Information and communication,515
+2010,Medium-sized (50 to 249),"M : Professional, scientific and technical activities",730
+2010,Medium-sized (50 to 249),N : Administrative and support service activities,1185
+2010,Medium-sized (50 to 249),"R : Arts, entertainment and recreation",180
+2010,Medium-sized (50 to 249),S : Other service activities,115
+2010,Medium-sized (50 to 249),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2010,Medium-sized (50 to 249),U : Activities of extraterritorial organisations and bodies,0
+2011,Large (250+),"A : Agriculture, forestry and fishing",30
+2011,Large (250+),B : Mining and quarrying,40
+2011,Large (250+),C : Manufacturing,1370
+2011,Large (250+),"D : Electricity, gas, steam and air conditioning supply",100
+2011,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",70
+2011,Large (250+),F : Construction,285
+2011,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1865
+2011,Large (250+),H : Transportation and storage,700
+2011,Large (250+),I : Accommodation and food service activities,210
+2011,Large (250+),J : Information and communication,490
+2011,Large (250+),"M : Professional, scientific and technical activities",710
+2011,Large (250+),N : Administrative and support service activities,1195
+2011,Large (250+),"R : Arts, entertainment and recreation",185
+2011,Large (250+),S : Other service activities,105
+2011,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2011,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2012,Large (250+),"A : Agriculture, forestry and fishing",35
+2012,Large (250+),B : Mining and quarrying,40
+2012,Large (250+),C : Manufacturing,1355
+2012,Large (250+),"D : Electricity, gas, steam and air conditioning supply",105
+2012,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",60
+2012,Large (250+),F : Construction,285
+2012,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1840
+2012,Large (250+),H : Transportation and storage,720
+2012,Large (250+),I : Accommodation and food service activities,220
+2012,Large (250+),J : Information and communication,510
+2012,Large (250+),"M : Professional, scientific and technical activities",745
+2012,Large (250+),N : Administrative and support service activities,1255
+2012,Large (250+),"R : Arts, entertainment and recreation",180
+2012,Large (250+),S : Other service activities,100
+2012,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2012,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2013,Large (250+),"A : Agriculture, forestry and fishing",50
+2013,Large (250+),B : Mining and quarrying,40
+2013,Large (250+),C : Manufacturing,1345
+2013,Large (250+),"D : Electricity, gas, steam and air conditioning supply",105
+2013,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",65
+2013,Large (250+),F : Construction,270
+2013,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1835
+2013,Large (250+),H : Transportation and storage,735
+2013,Large (250+),I : Accommodation and food service activities,230
+2013,Large (250+),J : Information and communication,505
+2013,Large (250+),"M : Professional, scientific and technical activities",800
+2013,Large (250+),N : Administrative and support service activities,1310
+2013,Large (250+),"R : Arts, entertainment and recreation",180
+2013,Large (250+),S : Other service activities,105
+2013,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2013,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2014,Large (250+),"A : Agriculture, forestry and fishing",40
+2014,Large (250+),B : Mining and quarrying,45
+2014,Large (250+),C : Manufacturing,1350
+2014,Large (250+),"D : Electricity, gas, steam and air conditioning supply",100
+2014,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",70
+2014,Large (250+),F : Construction,255
+2014,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1830
+2014,Large (250+),H : Transportation and storage,750
+2014,Large (250+),I : Accommodation and food service activities,220
+2014,Large (250+),J : Information and communication,520
+2014,Large (250+),"M : Professional, scientific and technical activities",815
+2014,Large (250+),N : Administrative and support service activities,1360
+2014,Large (250+),"R : Arts, entertainment and recreation",185
+2014,Large (250+),S : Other service activities,105
+2014,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2014,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2015,Large (250+),"A : Agriculture, forestry and fishing",45
+2015,Large (250+),B : Mining and quarrying,45
+2015,Large (250+),C : Manufacturing,1395
+2015,Large (250+),"D : Electricity, gas, steam and air conditioning supply",115
+2015,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",70
+2015,Large (250+),F : Construction,255
+2015,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1710
+2015,Large (250+),H : Transportation and storage,760
+2015,Large (250+),I : Accommodation and food service activities,235
+2015,Large (250+),J : Information and communication,525
+2015,Large (250+),"M : Professional, scientific and technical activities",900
+2015,Large (250+),N : Administrative and support service activities,1425
+2015,Large (250+),"R : Arts, entertainment and recreation",190
+2015,Large (250+),S : Other service activities,110
+2015,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2016,Large (250+),"A : Agriculture, forestry and fishing",55
+2016,Large (250+),B : Mining and quarrying,40
+2016,Large (250+),C : Manufacturing,1385
+2016,Large (250+),"D : Electricity, gas, steam and air conditioning supply",110
+2016,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",75
+2016,Large (250+),F : Construction,250
+2016,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1740
+2016,Large (250+),H : Transportation and storage,795
+2016,Large (250+),I : Accommodation and food service activities,245
+2016,Large (250+),J : Information and communication,530
+2016,Large (250+),"M : Professional, scientific and technical activities",955
+2016,Large (250+),N : Administrative and support service activities,1485
+2016,Large (250+),"R : Arts, entertainment and recreation",195
+2016,Large (250+),S : Other service activities,115
+2016,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2017,Large (250+),"A : Agriculture, forestry and fishing",60
+2017,Large (250+),B : Mining and quarrying,40
+2017,Large (250+),C : Manufacturing,1390
+2017,Large (250+),"D : Electricity, gas, steam and air conditioning supply",115
+2017,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",80
+2017,Large (250+),F : Construction,260
+2017,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1750
+2017,Large (250+),H : Transportation and storage,800
+2017,Large (250+),I : Accommodation and food service activities,285
+2017,Large (250+),J : Information and communication,550
+2017,Large (250+),"M : Professional, scientific and technical activities",950
+2017,Large (250+),N : Administrative and support service activities,1475
+2017,Large (250+),"R : Arts, entertainment and recreation",205
+2017,Large (250+),S : Other service activities,125
+2017,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2018,Large (250+),"A : Agriculture, forestry and fishing",70
+2018,Large (250+),B : Mining and quarrying,35
+2018,Large (250+),C : Manufacturing,1380
+2018,Large (250+),"D : Electricity, gas, steam and air conditioning supply",115
+2018,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",80
+2018,Large (250+),F : Construction,280
+2018,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1680
+2018,Large (250+),H : Transportation and storage,830
+2018,Large (250+),I : Accommodation and food service activities,290
+2018,Large (250+),J : Information and communication,560
+2018,Large (250+),"M : Professional, scientific and technical activities",970
+2018,Large (250+),N : Administrative and support service activities,1550
+2018,Large (250+),"R : Arts, entertainment and recreation",235
+2018,Large (250+),S : Other service activities,125
+2018,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2019,Large (250+),"A : Agriculture, forestry and fishing",75
+2019,Large (250+),B : Mining and quarrying,35
+2019,Large (250+),C : Manufacturing,1405
+2019,Large (250+),"D : Electricity, gas, steam and air conditioning supply",120
+2019,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",85
+2019,Large (250+),F : Construction,310
+2019,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1615
+2019,Large (250+),H : Transportation and storage,840
+2019,Large (250+),I : Accommodation and food service activities,290
+2019,Large (250+),J : Information and communication,570
+2019,Large (250+),"M : Professional, scientific and technical activities",1000
+2019,Large (250+),N : Administrative and support service activities,1555
+2019,Large (250+),"R : Arts, entertainment and recreation",235
+2019,Large (250+),S : Other service activities,120
+2019,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2020,Large (250+),"A : Agriculture, forestry and fishing",80
+2020,Large (250+),B : Mining and quarrying,35
+2020,Large (250+),C : Manufacturing,1390
+2020,Large (250+),"D : Electricity, gas, steam and air conditioning supply",120
+2020,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",80
+2020,Large (250+),F : Construction,305
+2020,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1545
+2020,Large (250+),H : Transportation and storage,870
+2020,Large (250+),I : Accommodation and food service activities,280
+2020,Large (250+),J : Information and communication,580
+2020,Large (250+),"M : Professional, scientific and technical activities",1030
+2020,Large (250+),N : Administrative and support service activities,1550
+2020,Large (250+),"R : Arts, entertainment and recreation",225
+2020,Large (250+),S : Other service activities,120
+2020,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2021,Large (250+),"A : Agriculture, forestry and fishing",85
+2021,Large (250+),B : Mining and quarrying,35
+2021,Large (250+),C : Manufacturing,1345
+2021,Large (250+),"D : Electricity, gas, steam and air conditioning supply",115
+2021,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",85
+2021,Large (250+),F : Construction,290
+2021,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1510
+2021,Large (250+),H : Transportation and storage,870
+2021,Large (250+),I : Accommodation and food service activities,270
+2021,Large (250+),J : Information and communication,590
+2021,Large (250+),"M : Professional, scientific and technical activities",995
+2021,Large (250+),N : Administrative and support service activities,1445
+2021,Large (250+),"R : Arts, entertainment and recreation",205
+2021,Large (250+),S : Other service activities,115
+2021,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2022,Large (250+),"A : Agriculture, forestry and fishing",85
+2022,Large (250+),B : Mining and quarrying,35
+2022,Large (250+),C : Manufacturing,1330
+2022,Large (250+),"D : Electricity, gas, steam and air conditioning supply",105
+2022,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",85
+2022,Large (250+),F : Construction,250
+2022,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1575
+2022,Large (250+),H : Transportation and storage,855
+2022,Large (250+),I : Accommodation and food service activities,250
+2022,Large (250+),J : Information and communication,605
+2022,Large (250+),"M : Professional, scientific and technical activities",1035
+2022,Large (250+),N : Administrative and support service activities,1455
+2022,Large (250+),"R : Arts, entertainment and recreation",195
+2022,Large (250+),S : Other service activities,120
+2022,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2022,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2023,Large (250+),"A : Agriculture, forestry and fishing",90
+2023,Large (250+),B : Mining and quarrying,35
+2023,Large (250+),C : Manufacturing,1350
+2023,Large (250+),"D : Electricity, gas, steam and air conditioning supply",95
+2023,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",90
+2023,Large (250+),F : Construction,245
+2023,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1545
+2023,Large (250+),H : Transportation and storage,875
+2023,Large (250+),I : Accommodation and food service activities,265
+2023,Large (250+),J : Information and communication,635
+2023,Large (250+),"M : Professional, scientific and technical activities",1100
+2023,Large (250+),N : Administrative and support service activities,1480
+2023,Large (250+),"R : Arts, entertainment and recreation",210
+2023,Large (250+),S : Other service activities,120
+2023,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2023,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2024,Large (250+),"A : Agriculture, forestry and fishing",95
+2024,Large (250+),B : Mining and quarrying,35
+2024,Large (250+),C : Manufacturing,1365
+2024,Large (250+),"D : Electricity, gas, steam and air conditioning supply",95
+2024,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",105
+2024,Large (250+),F : Construction,250
+2024,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1475
+2024,Large (250+),H : Transportation and storage,940
+2024,Large (250+),I : Accommodation and food service activities,300
+2024,Large (250+),J : Information and communication,665
+2024,Large (250+),"M : Professional, scientific and technical activities",1180
+2024,Large (250+),N : Administrative and support service activities,1505
+2024,Large (250+),"R : Arts, entertainment and recreation",210
+2024,Large (250+),S : Other service activities,130
+2024,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2024,Large (250+),U : Activities of extraterritorial organisations and bodies,0
+2025,Large (250+),"A : Agriculture, forestry and fishing",100
+2025,Large (250+),B : Mining and quarrying,30
+2025,Large (250+),C : Manufacturing,1345
+2025,Large (250+),"D : Electricity, gas, steam and air conditioning supply",110
+2025,Large (250+),"E : Water supply; sewerage, waste management and remediation activities",100
+2025,Large (250+),F : Construction,260
+2025,Large (250+),G : Wholesale and retail trade; repair of motor vehicles and motorcycles,1405
+2025,Large (250+),H : Transportation and storage,980
+2025,Large (250+),I : Accommodation and food service activities,335
+2025,Large (250+),J : Information and communication,655
+2025,Large (250+),"M : Professional, scientific and technical activities",1215
+2025,Large (250+),N : Administrative and support service activities,1370
+2025,Large (250+),"R : Arts, entertainment and recreation",220
+2025,Large (250+),S : Other service activities,140
+2025,Large (250+),T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2025,Large (250+),U : Activities of extraterritorial organisations and bodies,0

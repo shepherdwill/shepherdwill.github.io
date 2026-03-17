@@ -1,0 +1,1201 @@
+year,size,sector,site_count
+2010,Large (250+),Agriculture,25
+2010,Large (250+),Business Support Services,1185
+2010,Large (250+),Construction,310
+2010,Large (250+),Hospitality,185
+2010,Large (250+),IT & Computer Services,200
+2010,Large (250+),Manufacturing,1425
+2010,Large (250+),Other Information Services,310
+2010,Large (250+),Other Primary Industries,30
+2010,Large (250+),Other Services,295
+2010,Large (250+),Professional Services,735
+2010,Large (250+),Retail Trade,1580
+2010,Large (250+),Social care,255
+2010,Large (250+),Transport & Logistics,720
+2010,Large (250+),Utilities,165
+2010,Large (250+),Wholesale Trade,340
+2010,Medium-sized (50 to 249),Agriculture,260
+2010,Medium-sized (50 to 249),Business Support Services,6370
+2010,Medium-sized (50 to 249),Construction,3365
+2010,Medium-sized (50 to 249),Hospitality,4145
+2010,Medium-sized (50 to 249),IT & Computer Services,1225
+2010,Medium-sized (50 to 249),Manufacturing,7835
+2010,Medium-sized (50 to 249),Other Information Services,1130
+2010,Medium-sized (50 to 249),Other Primary Industries,185
+2010,Medium-sized (50 to 249),Other Services,3130
+2010,Medium-sized (50 to 249),Professional Services,4305
+2010,Medium-sized (50 to 249),Retail Trade,5845
+2010,Medium-sized (50 to 249),Social care,6025
+2010,Medium-sized (50 to 249),Transport & Logistics,3975
+2010,Medium-sized (50 to 249),Utilities,875
+2010,Medium-sized (50 to 249),Wholesale Trade,4435
+2010,Micro (0 to 9),Agriculture,128740
+2010,Micro (0 to 9),Business Support Services,157150
+2010,Micro (0 to 9),Construction,259440
+2010,Micro (0 to 9),Hospitality,125675
+2010,Micro (0 to 9),IT & Computer Services,106705
+2010,Micro (0 to 9),Manufacturing,103155
+2010,Micro (0 to 9),Other Information Services,34480
+2010,Micro (0 to 9),Other Primary Industries,8425
+2010,Micro (0 to 9),Other Services,161345
+2010,Micro (0 to 9),Professional Services,312405
+2010,Micro (0 to 9),Retail Trade,233760
+2010,Micro (0 to 9),Social care,48395
+2010,Micro (0 to 9),Transport & Logistics,66995
+2010,Micro (0 to 9),Utilities,7425
+2010,Micro (0 to 9),Wholesale Trade,166620
+2010,Small (10 to 49),Agriculture,3900
+2010,Small (10 to 49),Business Support Services,19655
+2010,Small (10 to 49),Construction,20455
+2010,Small (10 to 49),Hospitality,40790
+2010,Small (10 to 49),IT & Computer Services,5750
+2010,Small (10 to 49),Manufacturing,27210
+2010,Small (10 to 49),Other Information Services,3900
+2010,Small (10 to 49),Other Primary Industries,830
+2010,Small (10 to 49),Other Services,19670
+2010,Small (10 to 49),Professional Services,25505
+2010,Small (10 to 49),Retail Trade,45495
+2010,Small (10 to 49),Social care,31255
+2010,Small (10 to 49),Transport & Logistics,12145
+2010,Small (10 to 49),Utilities,2560
+2010,Small (10 to 49),Wholesale Trade,30315
+2010,Total,Agriculture,132925
+2010,Total,Business Support Services,184355
+2010,Total,Construction,283575
+2010,Total,Hospitality,170800
+2010,Total,IT & Computer Services,113885
+2010,Total,Manufacturing,139630
+2010,Total,Other Information Services,39820
+2010,Total,Other Primary Industries,9475
+2010,Total,Other Services,184450
+2010,Total,Professional Services,342950
+2010,Total,Retail Trade,286680
+2010,Total,Social care,85935
+2010,Total,Transport & Logistics,83830
+2010,Total,Utilities,11030
+2010,Total,Wholesale Trade,201710
+2011,Large (250+),Agriculture,30
+2011,Large (250+),Business Support Services,1200
+2011,Large (250+),Construction,280
+2011,Large (250+),Hospitality,215
+2011,Large (250+),IT & Computer Services,190
+2011,Large (250+),Manufacturing,1380
+2011,Large (250+),Other Information Services,300
+2011,Large (250+),Other Primary Industries,40
+2011,Large (250+),Other Services,285
+2011,Large (250+),Professional Services,715
+2011,Large (250+),Retail Trade,1520
+2011,Large (250+),Social care,275
+2011,Large (250+),Transport & Logistics,695
+2011,Large (250+),Utilities,170
+2011,Large (250+),Wholesale Trade,345
+2011,Medium-sized (50 to 249),Agriculture,265
+2011,Medium-sized (50 to 249),Business Support Services,6050
+2011,Medium-sized (50 to 249),Construction,3145
+2011,Medium-sized (50 to 249),Hospitality,4420
+2011,Medium-sized (50 to 249),IT & Computer Services,1220
+2011,Medium-sized (50 to 249),Manufacturing,7515
+2011,Medium-sized (50 to 249),Other Information Services,1095
+2011,Medium-sized (50 to 249),Other Primary Industries,180
+2011,Medium-sized (50 to 249),Other Services,3255
+2011,Medium-sized (50 to 249),Professional Services,4320
+2011,Medium-sized (50 to 249),Retail Trade,5945
+2011,Medium-sized (50 to 249),Social care,6420
+2011,Medium-sized (50 to 249),Transport & Logistics,3960
+2011,Medium-sized (50 to 249),Utilities,910
+2011,Medium-sized (50 to 249),Wholesale Trade,4315
+2011,Micro (0 to 9),Agriculture,130960
+2011,Micro (0 to 9),Business Support Services,150670
+2011,Micro (0 to 9),Construction,250215
+2011,Micro (0 to 9),Hospitality,118450
+2011,Micro (0 to 9),IT & Computer Services,108965
+2011,Micro (0 to 9),Manufacturing,99425
+2011,Micro (0 to 9),Other Information Services,34940
+2011,Micro (0 to 9),Other Primary Industries,8440
+2011,Micro (0 to 9),Other Services,156965
+2011,Micro (0 to 9),Professional Services,319030
+2011,Micro (0 to 9),Retail Trade,230685
+2011,Micro (0 to 9),Social care,49740
+2011,Micro (0 to 9),Transport & Logistics,65785
+2011,Micro (0 to 9),Utilities,7970
+2011,Micro (0 to 9),Wholesale Trade,165955
+2011,Small (10 to 49),Agriculture,3705
+2011,Small (10 to 49),Business Support Services,19165
+2011,Small (10 to 49),Construction,18335
+2011,Small (10 to 49),Hospitality,39980
+2011,Small (10 to 49),IT & Computer Services,5605
+2011,Small (10 to 49),Manufacturing,25660
+2011,Small (10 to 49),Other Information Services,3700
+2011,Small (10 to 49),Other Primary Industries,780
+2011,Small (10 to 49),Other Services,19480
+2011,Small (10 to 49),Professional Services,24890
+2011,Small (10 to 49),Retail Trade,46340
+2011,Small (10 to 49),Social care,31810
+2011,Small (10 to 49),Transport & Logistics,11820
+2011,Small (10 to 49),Utilities,2675
+2011,Small (10 to 49),Wholesale Trade,29775
+2011,Total,Agriculture,134960
+2011,Total,Business Support Services,177075
+2011,Total,Construction,271985
+2011,Total,Hospitality,163060
+2011,Total,IT & Computer Services,115985
+2011,Total,Manufacturing,133965
+2011,Total,Other Information Services,40035
+2011,Total,Other Primary Industries,9430
+2011,Total,Other Services,180005
+2011,Total,Professional Services,348950
+2011,Total,Retail Trade,284490
+2011,Total,Social care,88245
+2011,Total,Transport & Logistics,82275
+2011,Total,Utilities,11725
+2011,Total,Wholesale Trade,200395
+2012,Large (250+),Agriculture,35
+2012,Large (250+),Business Support Services,1255
+2012,Large (250+),Construction,290
+2012,Large (250+),Hospitality,215
+2012,Large (250+),IT & Computer Services,210
+2012,Large (250+),Manufacturing,1370
+2012,Large (250+),Other Information Services,300
+2012,Large (250+),Other Primary Industries,35
+2012,Large (250+),Other Services,280
+2012,Large (250+),Professional Services,745
+2012,Large (250+),Retail Trade,1490
+2012,Large (250+),Social care,255
+2012,Large (250+),Transport & Logistics,715
+2012,Large (250+),Utilities,165
+2012,Large (250+),Wholesale Trade,350
+2012,Medium-sized (50 to 249),Agriculture,325
+2012,Medium-sized (50 to 249),Business Support Services,6210
+2012,Medium-sized (50 to 249),Construction,2985
+2012,Medium-sized (50 to 249),Hospitality,4475
+2012,Medium-sized (50 to 249),IT & Computer Services,1260
+2012,Medium-sized (50 to 249),Manufacturing,7455
+2012,Medium-sized (50 to 249),Other Information Services,1105
+2012,Medium-sized (50 to 249),Other Primary Industries,175
+2012,Medium-sized (50 to 249),Other Services,3265
+2012,Medium-sized (50 to 249),Professional Services,4295
+2012,Medium-sized (50 to 249),Retail Trade,5965
+2012,Medium-sized (50 to 249),Social care,6865
+2012,Medium-sized (50 to 249),Transport & Logistics,3885
+2012,Medium-sized (50 to 249),Utilities,900
+2012,Medium-sized (50 to 249),Wholesale Trade,4315
+2012,Micro (0 to 9),Agriculture,130265
+2012,Micro (0 to 9),Business Support Services,151975
+2012,Micro (0 to 9),Construction,252375
+2012,Micro (0 to 9),Hospitality,120805
+2012,Micro (0 to 9),IT & Computer Services,117360
+2012,Micro (0 to 9),Manufacturing,100795
+2012,Micro (0 to 9),Other Information Services,36850
+2012,Micro (0 to 9),Other Primary Industries,8665
+2012,Micro (0 to 9),Other Services,160650
+2012,Micro (0 to 9),Professional Services,340595
+2012,Micro (0 to 9),Retail Trade,231960
+2012,Micro (0 to 9),Social care,50015
+2012,Micro (0 to 9),Transport & Logistics,66450
+2012,Micro (0 to 9),Utilities,8825
+2012,Micro (0 to 9),Wholesale Trade,167025
+2012,Small (10 to 49),Agriculture,3920
+2012,Small (10 to 49),Business Support Services,20420
+2012,Small (10 to 49),Construction,17955
+2012,Small (10 to 49),Hospitality,42380
+2012,Small (10 to 49),IT & Computer Services,6110
+2012,Small (10 to 49),Manufacturing,25860
+2012,Small (10 to 49),Other Information Services,4050
+2012,Small (10 to 49),Other Primary Industries,815
+2012,Small (10 to 49),Other Services,19865
+2012,Small (10 to 49),Professional Services,25650
+2012,Small (10 to 49),Retail Trade,47685
+2012,Small (10 to 49),Social care,32675
+2012,Small (10 to 49),Transport & Logistics,12000
+2012,Small (10 to 49),Utilities,2815
+2012,Small (10 to 49),Wholesale Trade,30655
+2012,Total,Agriculture,134545
+2012,Total,Business Support Services,179860
+2012,Total,Construction,273600
+2012,Total,Hospitality,167880
+2012,Total,IT & Computer Services,124935
+2012,Total,Manufacturing,135475
+2012,Total,Other Information Services,42310
+2012,Total,Other Primary Industries,9690
+2012,Total,Other Services,184065
+2012,Total,Professional Services,371275
+2012,Total,Retail Trade,287100
+2012,Total,Social care,89810
+2012,Total,Transport & Logistics,83065
+2012,Total,Utilities,12710
+2012,Total,Wholesale Trade,202340
+2013,Large (250+),Agriculture,50
+2013,Large (250+),Business Support Services,1305
+2013,Large (250+),Construction,265
+2013,Large (250+),Hospitality,230
+2013,Large (250+),IT & Computer Services,220
+2013,Large (250+),Manufacturing,1350
+2013,Large (250+),Other Information Services,285
+2013,Large (250+),Other Primary Industries,40
+2013,Large (250+),Other Services,285
+2013,Large (250+),Professional Services,800
+2013,Large (250+),Retail Trade,1480
+2013,Large (250+),Social care,280
+2013,Large (250+),Transport & Logistics,735
+2013,Large (250+),Utilities,170
+2013,Large (250+),Wholesale Trade,355
+2013,Medium-sized (50 to 249),Agriculture,340
+2013,Medium-sized (50 to 249),Business Support Services,6180
+2013,Medium-sized (50 to 249),Construction,2895
+2013,Medium-sized (50 to 249),Hospitality,4610
+2013,Medium-sized (50 to 249),IT & Computer Services,1280
+2013,Medium-sized (50 to 249),Manufacturing,7500
+2013,Medium-sized (50 to 249),Other Information Services,1135
+2013,Medium-sized (50 to 249),Other Primary Industries,160
+2013,Medium-sized (50 to 249),Other Services,3235
+2013,Medium-sized (50 to 249),Professional Services,4370
+2013,Medium-sized (50 to 249),Retail Trade,6040
+2013,Medium-sized (50 to 249),Social care,7130
+2013,Medium-sized (50 to 249),Transport & Logistics,4065
+2013,Medium-sized (50 to 249),Utilities,935
+2013,Medium-sized (50 to 249),Wholesale Trade,4320
+2013,Micro (0 to 9),Agriculture,134995
+2013,Micro (0 to 9),Business Support Services,150025
+2013,Micro (0 to 9),Construction,245330
+2013,Micro (0 to 9),Hospitality,117135
+2013,Micro (0 to 9),IT & Computer Services,121905
+2013,Micro (0 to 9),Manufacturing,102030
+2013,Micro (0 to 9),Other Information Services,38235
+2013,Micro (0 to 9),Other Primary Industries,8930
+2013,Micro (0 to 9),Other Services,154585
+2013,Micro (0 to 9),Professional Services,353730
+2013,Micro (0 to 9),Retail Trade,229120
+2013,Micro (0 to 9),Social care,48000
+2013,Micro (0 to 9),Transport & Logistics,67290
+2013,Micro (0 to 9),Utilities,9780
+2013,Micro (0 to 9),Wholesale Trade,165700
+2013,Small (10 to 49),Agriculture,3995
+2013,Small (10 to 49),Business Support Services,20775
+2013,Small (10 to 49),Construction,18360
+2013,Small (10 to 49),Hospitality,44940
+2013,Small (10 to 49),IT & Computer Services,6565
+2013,Small (10 to 49),Manufacturing,26180
+2013,Small (10 to 49),Other Information Services,3985
+2013,Small (10 to 49),Other Primary Industries,840
+2013,Small (10 to 49),Other Services,20575
+2013,Small (10 to 49),Professional Services,26335
+2013,Small (10 to 49),Retail Trade,48245
+2013,Small (10 to 49),Social care,33285
+2013,Small (10 to 49),Transport & Logistics,12630
+2013,Small (10 to 49),Utilities,2970
+2013,Small (10 to 49),Wholesale Trade,31315
+2013,Total,Agriculture,139375
+2013,Total,Business Support Services,178295
+2013,Total,Construction,266850
+2013,Total,Hospitality,166920
+2013,Total,IT & Computer Services,129970
+2013,Total,Manufacturing,137025
+2013,Total,Other Information Services,43640
+2013,Total,Other Primary Industries,9985
+2013,Total,Other Services,178675
+2013,Total,Professional Services,385240
+2013,Total,Retail Trade,284885
+2013,Total,Social care,88690
+2013,Total,Transport & Logistics,84730
+2013,Total,Utilities,13850
+2013,Total,Wholesale Trade,201690
+2014,Large (250+),Agriculture,40
+2014,Large (250+),Business Support Services,1360
+2014,Large (250+),Construction,255
+2014,Large (250+),Hospitality,215
+2014,Large (250+),IT & Computer Services,230
+2014,Large (250+),Manufacturing,1350
+2014,Large (250+),Other Information Services,285
+2014,Large (250+),Other Primary Industries,45
+2014,Large (250+),Other Services,290
+2014,Large (250+),Professional Services,810
+2014,Large (250+),Retail Trade,1465
+2014,Large (250+),Social care,305
+2014,Large (250+),Transport & Logistics,750
+2014,Large (250+),Utilities,175
+2014,Large (250+),Wholesale Trade,360
+2014,Medium-sized (50 to 249),Agriculture,350
+2014,Medium-sized (50 to 249),Business Support Services,6265
+2014,Medium-sized (50 to 249),Construction,2775
+2014,Medium-sized (50 to 249),Hospitality,4810
+2014,Medium-sized (50 to 249),IT & Computer Services,1350
+2014,Medium-sized (50 to 249),Manufacturing,7500
+2014,Medium-sized (50 to 249),Other Information Services,1145
+2014,Medium-sized (50 to 249),Other Primary Industries,165
+2014,Medium-sized (50 to 249),Other Services,3290
+2014,Medium-sized (50 to 249),Professional Services,4515
+2014,Medium-sized (50 to 249),Retail Trade,6135
+2014,Medium-sized (50 to 249),Social care,7350
+2014,Medium-sized (50 to 249),Transport & Logistics,4005
+2014,Medium-sized (50 to 249),Utilities,935
+2014,Medium-sized (50 to 249),Wholesale Trade,4400
+2014,Micro (0 to 9),Agriculture,136300
+2014,Micro (0 to 9),Business Support Services,162655
+2014,Micro (0 to 9),Construction,254215
+2014,Micro (0 to 9),Hospitality,117785
+2014,Micro (0 to 9),IT & Computer Services,132860
+2014,Micro (0 to 9),Manufacturing,102360
+2014,Micro (0 to 9),Other Information Services,40640
+2014,Micro (0 to 9),Other Primary Industries,8955
+2014,Micro (0 to 9),Other Services,156395
+2014,Micro (0 to 9),Professional Services,382770
+2014,Micro (0 to 9),Retail Trade,230225
+2014,Micro (0 to 9),Social care,49365
+2014,Micro (0 to 9),Transport & Logistics,71610
+2014,Micro (0 to 9),Utilities,10460
+2014,Micro (0 to 9),Wholesale Trade,167160
+2014,Small (10 to 49),Agriculture,4010
+2014,Small (10 to 49),Business Support Services,21550
+2014,Small (10 to 49),Construction,18170
+2014,Small (10 to 49),Hospitality,49000
+2014,Small (10 to 49),IT & Computer Services,6770
+2014,Small (10 to 49),Manufacturing,26115
+2014,Small (10 to 49),Other Information Services,4145
+2014,Small (10 to 49),Other Primary Industries,830
+2014,Small (10 to 49),Other Services,20905
+2014,Small (10 to 49),Professional Services,27025
+2014,Small (10 to 49),Retail Trade,49765
+2014,Small (10 to 49),Social care,34115
+2014,Small (10 to 49),Transport & Logistics,12695
+2014,Small (10 to 49),Utilities,2945
+2014,Small (10 to 49),Wholesale Trade,31605
+2014,Total,Agriculture,140700
+2014,Total,Business Support Services,191830
+2014,Total,Construction,275420
+2014,Total,Hospitality,171810
+2014,Total,IT & Computer Services,141215
+2014,Total,Manufacturing,137310
+2014,Total,Other Information Services,46210
+2014,Total,Other Primary Industries,9990
+2014,Total,Other Services,180880
+2014,Total,Professional Services,415125
+2014,Total,Retail Trade,287590
+2014,Total,Social care,91125
+2014,Total,Transport & Logistics,89075
+2014,Total,Utilities,14520
+2014,Total,Wholesale Trade,203525
+2015,Large (250+),Agriculture,45
+2015,Large (250+),Business Support Services,1425
+2015,Large (250+),Construction,255
+2015,Large (250+),Hospitality,230
+2015,Large (250+),IT & Computer Services,240
+2015,Large (250+),Manufacturing,1410
+2015,Large (250+),Other Information Services,280
+2015,Large (250+),Other Primary Industries,50
+2015,Large (250+),Other Services,305
+2015,Large (250+),Professional Services,900
+2015,Large (250+),Retail Trade,1340
+2015,Large (250+),Social care,310
+2015,Large (250+),Transport & Logistics,760
+2015,Large (250+),Utilities,185
+2015,Large (250+),Wholesale Trade,375
+2015,Medium-sized (50 to 249),Agriculture,370
+2015,Medium-sized (50 to 249),Business Support Services,6285
+2015,Medium-sized (50 to 249),Construction,2820
+2015,Medium-sized (50 to 249),Hospitality,5165
+2015,Medium-sized (50 to 249),IT & Computer Services,1445
+2015,Medium-sized (50 to 249),Manufacturing,7530
+2015,Medium-sized (50 to 249),Other Information Services,1165
+2015,Medium-sized (50 to 249),Other Primary Industries,170
+2015,Medium-sized (50 to 249),Other Services,3415
+2015,Medium-sized (50 to 249),Professional Services,4715
+2015,Medium-sized (50 to 249),Retail Trade,6295
+2015,Medium-sized (50 to 249),Social care,7425
+2015,Medium-sized (50 to 249),Transport & Logistics,4050
+2015,Medium-sized (50 to 249),Utilities,935
+2015,Medium-sized (50 to 249),Wholesale Trade,4495
+2015,Micro (0 to 9),Agriculture,137445
+2015,Micro (0 to 9),Business Support Services,201590
+2015,Micro (0 to 9),Construction,272155
+2015,Micro (0 to 9),Hospitality,128230
+2015,Micro (0 to 9),IT & Computer Services,143300
+2015,Micro (0 to 9),Manufacturing,105835
+2015,Micro (0 to 9),Other Information Services,43235
+2015,Micro (0 to 9),Other Primary Industries,9225
+2015,Micro (0 to 9),Other Services,173085
+2015,Micro (0 to 9),Professional Services,421630
+2015,Micro (0 to 9),Retail Trade,231010
+2015,Micro (0 to 9),Social care,52350
+2015,Micro (0 to 9),Transport & Logistics,81985
+2015,Micro (0 to 9),Utilities,11280
+2015,Micro (0 to 9),Wholesale Trade,170325
+2015,Small (10 to 49),Agriculture,4160
+2015,Small (10 to 49),Business Support Services,22860
+2015,Small (10 to 49),Construction,18595
+2015,Small (10 to 49),Hospitality,52675
+2015,Small (10 to 49),IT & Computer Services,7100
+2015,Small (10 to 49),Manufacturing,26220
+2015,Small (10 to 49),Other Information Services,4260
+2015,Small (10 to 49),Other Primary Industries,850
+2015,Small (10 to 49),Other Services,21535
+2015,Small (10 to 49),Professional Services,28020
+2015,Small (10 to 49),Retail Trade,51670
+2015,Small (10 to 49),Social care,34350
+2015,Small (10 to 49),Transport & Logistics,12815
+2015,Small (10 to 49),Utilities,3075
+2015,Small (10 to 49),Wholesale Trade,31865
+2015,Total,Agriculture,142020
+2015,Total,Business Support Services,232165
+2015,Total,Construction,293825
+2015,Total,Hospitality,186310
+2015,Total,IT & Computer Services,152090
+2015,Total,Manufacturing,140990
+2015,Total,Other Information Services,48940
+2015,Total,Other Primary Industries,10290
+2015,Total,Other Services,198345
+2015,Total,Professional Services,455265
+2015,Total,Retail Trade,290315
+2015,Total,Social care,94435
+2015,Total,Transport & Logistics,99620
+2015,Total,Utilities,15470
+2015,Total,Wholesale Trade,207055
+2016,Large (250+),Agriculture,55
+2016,Large (250+),Business Support Services,1485
+2016,Large (250+),Construction,255
+2016,Large (250+),Hospitality,245
+2016,Large (250+),IT & Computer Services,255
+2016,Large (250+),Manufacturing,1385
+2016,Large (250+),Other Information Services,275
+2016,Large (250+),Other Primary Industries,40
+2016,Large (250+),Other Services,305
+2016,Large (250+),Professional Services,955
+2016,Large (250+),Retail Trade,1365
+2016,Large (250+),Social care,310
+2016,Large (250+),Transport & Logistics,790
+2016,Large (250+),Utilities,185
+2016,Large (250+),Wholesale Trade,375
+2016,Medium-sized (50 to 249),Agriculture,385
+2016,Medium-sized (50 to 249),Business Support Services,6540
+2016,Medium-sized (50 to 249),Construction,2895
+2016,Medium-sized (50 to 249),Hospitality,5310
+2016,Medium-sized (50 to 249),IT & Computer Services,1500
+2016,Medium-sized (50 to 249),Manufacturing,7630
+2016,Medium-sized (50 to 249),Other Information Services,1165
+2016,Medium-sized (50 to 249),Other Primary Industries,170
+2016,Medium-sized (50 to 249),Other Services,3475
+2016,Medium-sized (50 to 249),Professional Services,4950
+2016,Medium-sized (50 to 249),Retail Trade,6285
+2016,Medium-sized (50 to 249),Social care,7320
+2016,Medium-sized (50 to 249),Transport & Logistics,4205
+2016,Medium-sized (50 to 249),Utilities,955
+2016,Medium-sized (50 to 249),Wholesale Trade,4690
+2016,Micro (0 to 9),Agriculture,137975
+2016,Micro (0 to 9),Business Support Services,216155
+2016,Micro (0 to 9),Construction,289460
+2016,Micro (0 to 9),Hospitality,129150
+2016,Micro (0 to 9),IT & Computer Services,154930
+2016,Micro (0 to 9),Manufacturing,109225
+2016,Micro (0 to 9),Other Information Services,45565
+2016,Micro (0 to 9),Other Primary Industries,9360
+2016,Micro (0 to 9),Other Services,175235
+2016,Micro (0 to 9),Professional Services,444100
+2016,Micro (0 to 9),Retail Trade,230025
+2016,Micro (0 to 9),Social care,53400
+2016,Micro (0 to 9),Transport & Logistics,92285
+2016,Micro (0 to 9),Utilities,12275
+2016,Micro (0 to 9),Wholesale Trade,170430
+2016,Small (10 to 49),Agriculture,4090
+2016,Small (10 to 49),Business Support Services,23415
+2016,Small (10 to 49),Construction,18770
+2016,Small (10 to 49),Hospitality,53170
+2016,Small (10 to 49),IT & Computer Services,7405
+2016,Small (10 to 49),Manufacturing,25960
+2016,Small (10 to 49),Other Information Services,4310
+2016,Small (10 to 49),Other Primary Industries,875
+2016,Small (10 to 49),Other Services,21440
+2016,Small (10 to 49),Professional Services,28505
+2016,Small (10 to 49),Retail Trade,52130
+2016,Small (10 to 49),Social care,33965
+2016,Small (10 to 49),Transport & Logistics,12960
+2016,Small (10 to 49),Utilities,3290
+2016,Small (10 to 49),Wholesale Trade,32270
+2016,Total,Agriculture,142500
+2016,Total,Business Support Services,247595
+2016,Total,Construction,311375
+2016,Total,Hospitality,187865
+2016,Total,IT & Computer Services,164095
+2016,Total,Manufacturing,144180
+2016,Total,Other Information Services,51315
+2016,Total,Other Primary Industries,10445
+2016,Total,Other Services,200455
+2016,Total,Professional Services,478500
+2016,Total,Retail Trade,289800
+2016,Total,Social care,94995
+2016,Total,Transport & Logistics,110250
+2016,Total,Utilities,16710
+2016,Total,Wholesale Trade,207760
+2017,Large (250+),Agriculture,60
+2017,Large (250+),Business Support Services,1475
+2017,Large (250+),Construction,265
+2017,Large (250+),Hospitality,285
+2017,Large (250+),IT & Computer Services,265
+2017,Large (250+),Manufacturing,1395
+2017,Large (250+),Other Information Services,290
+2017,Large (250+),Other Primary Industries,45
+2017,Large (250+),Other Services,325
+2017,Large (250+),Professional Services,945
+2017,Large (250+),Retail Trade,1370
+2017,Large (250+),Social care,310
+2017,Large (250+),Transport & Logistics,800
+2017,Large (250+),Utilities,195
+2017,Large (250+),Wholesale Trade,380
+2017,Medium-sized (50 to 249),Agriculture,400
+2017,Medium-sized (50 to 249),Business Support Services,6615
+2017,Medium-sized (50 to 249),Construction,2965
+2017,Medium-sized (50 to 249),Hospitality,5565
+2017,Medium-sized (50 to 249),IT & Computer Services,1565
+2017,Medium-sized (50 to 249),Manufacturing,7585
+2017,Medium-sized (50 to 249),Other Information Services,1150
+2017,Medium-sized (50 to 249),Other Primary Industries,165
+2017,Medium-sized (50 to 249),Other Services,3565
+2017,Medium-sized (50 to 249),Professional Services,5040
+2017,Medium-sized (50 to 249),Retail Trade,6230
+2017,Medium-sized (50 to 249),Social care,7490
+2017,Medium-sized (50 to 249),Transport & Logistics,4275
+2017,Medium-sized (50 to 249),Utilities,975
+2017,Medium-sized (50 to 249),Wholesale Trade,4755
+2017,Micro (0 to 9),Agriculture,139535
+2017,Micro (0 to 9),Business Support Services,237200
+2017,Micro (0 to 9),Construction,307390
+2017,Micro (0 to 9),Hospitality,131200
+2017,Micro (0 to 9),IT & Computer Services,162565
+2017,Micro (0 to 9),Manufacturing,111220
+2017,Micro (0 to 9),Other Information Services,47735
+2017,Micro (0 to 9),Other Primary Industries,9330
+2017,Micro (0 to 9),Other Services,175890
+2017,Micro (0 to 9),Professional Services,463175
+2017,Micro (0 to 9),Retail Trade,233920
+2017,Micro (0 to 9),Social care,54835
+2017,Micro (0 to 9),Transport & Logistics,108050
+2017,Micro (0 to 9),Utilities,12855
+2017,Micro (0 to 9),Wholesale Trade,171545
+2017,Small (10 to 49),Agriculture,3815
+2017,Small (10 to 49),Business Support Services,24750
+2017,Small (10 to 49),Construction,19260
+2017,Small (10 to 49),Hospitality,55290
+2017,Small (10 to 49),IT & Computer Services,7620
+2017,Small (10 to 49),Manufacturing,25970
+2017,Small (10 to 49),Other Information Services,4460
+2017,Small (10 to 49),Other Primary Industries,895
+2017,Small (10 to 49),Other Services,21555
+2017,Small (10 to 49),Professional Services,29185
+2017,Small (10 to 49),Retail Trade,52760
+2017,Small (10 to 49),Social care,33630
+2017,Small (10 to 49),Transport & Logistics,13435
+2017,Small (10 to 49),Utilities,3340
+2017,Small (10 to 49),Wholesale Trade,31935
+2017,Total,Agriculture,143810
+2017,Total,Business Support Services,270045
+2017,Total,Construction,329875
+2017,Total,Hospitality,192330
+2017,Total,IT & Computer Services,172010
+2017,Total,Manufacturing,146185
+2017,Total,Other Information Services,53630
+2017,Total,Other Primary Industries,10430
+2017,Total,Other Services,201340
+2017,Total,Professional Services,498350
+2017,Total,Retail Trade,294280
+2017,Total,Social care,96265
+2017,Total,Transport & Logistics,126560
+2017,Total,Utilities,17375
+2017,Total,Wholesale Trade,208615
+2018,Large (250+),Agriculture,70
+2018,Large (250+),Business Support Services,1545
+2018,Large (250+),Construction,280
+2018,Large (250+),Hospitality,290
+2018,Large (250+),IT & Computer Services,265
+2018,Large (250+),Manufacturing,1380
+2018,Large (250+),Other Information Services,290
+2018,Large (250+),Other Primary Industries,35
+2018,Large (250+),Other Services,360
+2018,Large (250+),Professional Services,970
+2018,Large (250+),Retail Trade,1285
+2018,Large (250+),Social care,325
+2018,Large (250+),Transport & Logistics,825
+2018,Large (250+),Utilities,195
+2018,Large (250+),Wholesale Trade,390
+2018,Medium-sized (50 to 249),Agriculture,415
+2018,Medium-sized (50 to 249),Business Support Services,6865
+2018,Medium-sized (50 to 249),Construction,3060
+2018,Medium-sized (50 to 249),Hospitality,5695
+2018,Medium-sized (50 to 249),IT & Computer Services,1650
+2018,Medium-sized (50 to 249),Manufacturing,7715
+2018,Medium-sized (50 to 249),Other Information Services,1145
+2018,Medium-sized (50 to 249),Other Primary Industries,165
+2018,Medium-sized (50 to 249),Other Services,3605
+2018,Medium-sized (50 to 249),Professional Services,5230
+2018,Medium-sized (50 to 249),Retail Trade,6220
+2018,Medium-sized (50 to 249),Social care,7470
+2018,Medium-sized (50 to 249),Transport & Logistics,4370
+2018,Medium-sized (50 to 249),Utilities,1045
+2018,Medium-sized (50 to 249),Wholesale Trade,4845
+2018,Micro (0 to 9),Agriculture,140430
+2018,Micro (0 to 9),Business Support Services,231240
+2018,Micro (0 to 9),Construction,319010
+2018,Micro (0 to 9),Hospitality,135405
+2018,Micro (0 to 9),IT & Computer Services,164350
+2018,Micro (0 to 9),Manufacturing,112185
+2018,Micro (0 to 9),Other Information Services,47840
+2018,Micro (0 to 9),Other Primary Industries,9680
+2018,Micro (0 to 9),Other Services,177710
+2018,Micro (0 to 9),Professional Services,452685
+2018,Micro (0 to 9),Retail Trade,238735
+2018,Micro (0 to 9),Social care,49530
+2018,Micro (0 to 9),Transport & Logistics,108115
+2018,Micro (0 to 9),Utilities,13300
+2018,Micro (0 to 9),Wholesale Trade,171040
+2018,Small (10 to 49),Agriculture,3855
+2018,Small (10 to 49),Business Support Services,24855
+2018,Small (10 to 49),Construction,19565
+2018,Small (10 to 49),Hospitality,57355
+2018,Small (10 to 49),IT & Computer Services,7945
+2018,Small (10 to 49),Manufacturing,25960
+2018,Small (10 to 49),Other Information Services,4600
+2018,Small (10 to 49),Other Primary Industries,860
+2018,Small (10 to 49),Other Services,21740
+2018,Small (10 to 49),Professional Services,29760
+2018,Small (10 to 49),Retail Trade,53170
+2018,Small (10 to 49),Social care,33495
+2018,Small (10 to 49),Transport & Logistics,13055
+2018,Small (10 to 49),Utilities,3430
+2018,Small (10 to 49),Wholesale Trade,32310
+2018,Total,Agriculture,144770
+2018,Total,Business Support Services,264505
+2018,Total,Construction,341920
+2018,Total,Hospitality,198740
+2018,Total,IT & Computer Services,174205
+2018,Total,Manufacturing,147225
+2018,Total,Other Information Services,53870
+2018,Total,Other Primary Industries,10745
+2018,Total,Other Services,203410
+2018,Total,Professional Services,488635
+2018,Total,Retail Trade,299415
+2018,Total,Social care,90815
+2018,Total,Transport & Logistics,126365
+2018,Total,Utilities,17960
+2018,Total,Wholesale Trade,208590
+2019,Large (250+),Agriculture,75
+2019,Large (250+),Business Support Services,1555
+2019,Large (250+),Construction,310
+2019,Large (250+),Hospitality,290
+2019,Large (250+),IT & Computer Services,285
+2019,Large (250+),Manufacturing,1400
+2019,Large (250+),Other Information Services,285
+2019,Large (250+),Other Primary Industries,35
+2019,Large (250+),Other Services,355
+2019,Large (250+),Professional Services,1005
+2019,Large (250+),Retail Trade,1215
+2019,Large (250+),Social care,330
+2019,Large (250+),Transport & Logistics,840
+2019,Large (250+),Utilities,210
+2019,Large (250+),Wholesale Trade,400
+2019,Medium-sized (50 to 249),Agriculture,445
+2019,Medium-sized (50 to 249),Business Support Services,7015
+2019,Medium-sized (50 to 249),Construction,3030
+2019,Medium-sized (50 to 249),Hospitality,5795
+2019,Medium-sized (50 to 249),IT & Computer Services,1775
+2019,Medium-sized (50 to 249),Manufacturing,7770
+2019,Medium-sized (50 to 249),Other Information Services,1105
+2019,Medium-sized (50 to 249),Other Primary Industries,165
+2019,Medium-sized (50 to 249),Other Services,3705
+2019,Medium-sized (50 to 249),Professional Services,5395
+2019,Medium-sized (50 to 249),Retail Trade,6215
+2019,Medium-sized (50 to 249),Social care,7620
+2019,Medium-sized (50 to 249),Transport & Logistics,4405
+2019,Medium-sized (50 to 249),Utilities,1070
+2019,Medium-sized (50 to 249),Wholesale Trade,4935
+2019,Micro (0 to 9),Agriculture,140535
+2019,Micro (0 to 9),Business Support Services,234590
+2019,Micro (0 to 9),Construction,330505
+2019,Micro (0 to 9),Hospitality,140240
+2019,Micro (0 to 9),IT & Computer Services,169665
+2019,Micro (0 to 9),Manufacturing,113790
+2019,Micro (0 to 9),Other Information Services,49015
+2019,Micro (0 to 9),Other Primary Industries,9820
+2019,Micro (0 to 9),Other Services,180260
+2019,Micro (0 to 9),Professional Services,455975
+2019,Micro (0 to 9),Retail Trade,245475
+2019,Micro (0 to 9),Social care,46555
+2019,Micro (0 to 9),Transport & Logistics,109680
+2019,Micro (0 to 9),Utilities,13575
+2019,Micro (0 to 9),Wholesale Trade,173260
+2019,Small (10 to 49),Agriculture,3915
+2019,Small (10 to 49),Business Support Services,25715
+2019,Small (10 to 49),Construction,19775
+2019,Small (10 to 49),Hospitality,57950
+2019,Small (10 to 49),IT & Computer Services,8215
+2019,Small (10 to 49),Manufacturing,25585
+2019,Small (10 to 49),Other Information Services,4580
+2019,Small (10 to 49),Other Primary Industries,885
+2019,Small (10 to 49),Other Services,21630
+2019,Small (10 to 49),Professional Services,30575
+2019,Small (10 to 49),Retail Trade,53750
+2019,Small (10 to 49),Social care,33205
+2019,Small (10 to 49),Transport & Logistics,13315
+2019,Small (10 to 49),Utilities,3465
+2019,Small (10 to 49),Wholesale Trade,32365
+2019,Total,Agriculture,144970
+2019,Total,Business Support Services,268865
+2019,Total,Construction,353620
+2019,Total,Hospitality,204275
+2019,Total,IT & Computer Services,179950
+2019,Total,Manufacturing,148535
+2019,Total,Other Information Services,54985
+2019,Total,Other Primary Industries,10915
+2019,Total,Other Services,205960
+2019,Total,Professional Services,492945
+2019,Total,Retail Trade,306655
+2019,Total,Social care,87705
+2019,Total,Transport & Logistics,128240
+2019,Total,Utilities,18295
+2019,Total,Wholesale Trade,210955
+2020,Large (250+),Agriculture,80
+2020,Large (250+),Business Support Services,1550
+2020,Large (250+),Construction,305
+2020,Large (250+),Hospitality,275
+2020,Large (250+),IT & Computer Services,295
+2020,Large (250+),Manufacturing,1390
+2020,Large (250+),Other Information Services,280
+2020,Large (250+),Other Primary Industries,35
+2020,Large (250+),Other Services,345
+2020,Large (250+),Professional Services,1030
+2020,Large (250+),Retail Trade,1120
+2020,Large (250+),Social care,325
+2020,Large (250+),Transport & Logistics,875
+2020,Large (250+),Utilities,205
+2020,Large (250+),Wholesale Trade,420
+2020,Medium-sized (50 to 249),Agriculture,445
+2020,Medium-sized (50 to 249),Business Support Services,6990
+2020,Medium-sized (50 to 249),Construction,3045
+2020,Medium-sized (50 to 249),Hospitality,6060
+2020,Medium-sized (50 to 249),IT & Computer Services,1855
+2020,Medium-sized (50 to 249),Manufacturing,7780
+2020,Medium-sized (50 to 249),Other Information Services,1135
+2020,Medium-sized (50 to 249),Other Primary Industries,165
+2020,Medium-sized (50 to 249),Other Services,3605
+2020,Medium-sized (50 to 249),Professional Services,5525
+2020,Medium-sized (50 to 249),Retail Trade,6160
+2020,Medium-sized (50 to 249),Social care,7710
+2020,Medium-sized (50 to 249),Transport & Logistics,4445
+2020,Medium-sized (50 to 249),Utilities,1080
+2020,Medium-sized (50 to 249),Wholesale Trade,4945
+2020,Micro (0 to 9),Agriculture,139630
+2020,Micro (0 to 9),Business Support Services,240100
+2020,Micro (0 to 9),Construction,338180
+2020,Micro (0 to 9),Hospitality,146505
+2020,Micro (0 to 9),IT & Computer Services,167945
+2020,Micro (0 to 9),Manufacturing,114375
+2020,Micro (0 to 9),Other Information Services,49685
+2020,Micro (0 to 9),Other Primary Industries,9910
+2020,Micro (0 to 9),Other Services,181835
+2020,Micro (0 to 9),Professional Services,451760
+2020,Micro (0 to 9),Retail Trade,246040
+2020,Micro (0 to 9),Social care,47140
+2020,Micro (0 to 9),Transport & Logistics,121345
+2020,Micro (0 to 9),Utilities,13865
+2020,Micro (0 to 9),Wholesale Trade,171570
+2020,Small (10 to 49),Agriculture,3965
+2020,Small (10 to 49),Business Support Services,25890
+2020,Small (10 to 49),Construction,19995
+2020,Small (10 to 49),Hospitality,58790
+2020,Small (10 to 49),IT & Computer Services,8530
+2020,Small (10 to 49),Manufacturing,25385
+2020,Small (10 to 49),Other Information Services,4590
+2020,Small (10 to 49),Other Primary Industries,890
+2020,Small (10 to 49),Other Services,21665
+2020,Small (10 to 49),Professional Services,30850
+2020,Small (10 to 49),Retail Trade,53575
+2020,Small (10 to 49),Social care,33610
+2020,Small (10 to 49),Transport & Logistics,13345
+2020,Small (10 to 49),Utilities,3485
+2020,Small (10 to 49),Wholesale Trade,32155
+2020,Total,Agriculture,144125
+2020,Total,Business Support Services,274535
+2020,Total,Construction,361520
+2020,Total,Hospitality,211635
+2020,Total,IT & Computer Services,178625
+2020,Total,Manufacturing,148940
+2020,Total,Other Information Services,55700
+2020,Total,Other Primary Industries,11005
+2020,Total,Other Services,207440
+2020,Total,Professional Services,489175
+2020,Total,Retail Trade,306895
+2020,Total,Social care,88785
+2020,Total,Transport & Logistics,140005
+2020,Total,Utilities,18645
+2020,Total,Wholesale Trade,209100
+2021,Large (250+),Agriculture,80
+2021,Large (250+),Business Support Services,1440
+2021,Large (250+),Construction,290
+2021,Large (250+),Hospitality,275
+2021,Large (250+),IT & Computer Services,305
+2021,Large (250+),Manufacturing,1360
+2021,Large (250+),Other Information Services,280
+2021,Large (250+),Other Primary Industries,35
+2021,Large (250+),Other Services,315
+2021,Large (250+),Professional Services,995
+2021,Large (250+),Retail Trade,1110
+2021,Large (250+),Social care,335
+2021,Large (250+),Transport & Logistics,865
+2021,Large (250+),Utilities,195
+2021,Large (250+),Wholesale Trade,405
+2021,Medium-sized (50 to 249),Agriculture,455
+2021,Medium-sized (50 to 249),Business Support Services,6745
+2021,Medium-sized (50 to 249),Construction,2940
+2021,Medium-sized (50 to 249),Hospitality,5725
+2021,Medium-sized (50 to 249),IT & Computer Services,1950
+2021,Medium-sized (50 to 249),Manufacturing,7645
+2021,Medium-sized (50 to 249),Other Information Services,1115
+2021,Medium-sized (50 to 249),Other Primary Industries,165
+2021,Medium-sized (50 to 249),Other Services,3450
+2021,Medium-sized (50 to 249),Professional Services,5510
+2021,Medium-sized (50 to 249),Retail Trade,5855
+2021,Medium-sized (50 to 249),Social care,7765
+2021,Medium-sized (50 to 249),Transport & Logistics,4420
+2021,Medium-sized (50 to 249),Utilities,1070
+2021,Medium-sized (50 to 249),Wholesale Trade,4730
+2021,Micro (0 to 9),Agriculture,131495
+2021,Micro (0 to 9),Business Support Services,238725
+2021,Micro (0 to 9),Construction,346910
+2021,Micro (0 to 9),Hospitality,152565
+2021,Micro (0 to 9),IT & Computer Services,153625
+2021,Micro (0 to 9),Manufacturing,116910
+2021,Micro (0 to 9),Other Information Services,50680
+2021,Micro (0 to 9),Other Primary Industries,9965
+2021,Micro (0 to 9),Other Services,181555
+2021,Micro (0 to 9),Professional Services,436780
+2021,Micro (0 to 9),Retail Trade,256580
+2021,Micro (0 to 9),Social care,47130
+2021,Micro (0 to 9),Transport & Logistics,136485
+2021,Micro (0 to 9),Utilities,14245
+2021,Micro (0 to 9),Wholesale Trade,179220
+2021,Small (10 to 49),Agriculture,4015
+2021,Small (10 to 49),Business Support Services,25840
+2021,Small (10 to 49),Construction,19965
+2021,Small (10 to 49),Hospitality,56875
+2021,Small (10 to 49),IT & Computer Services,8765
+2021,Small (10 to 49),Manufacturing,25290
+2021,Small (10 to 49),Other Information Services,4520
+2021,Small (10 to 49),Other Primary Industries,920
+2021,Small (10 to 49),Other Services,21105
+2021,Small (10 to 49),Professional Services,30900
+2021,Small (10 to 49),Retail Trade,52860
+2021,Small (10 to 49),Social care,33335
+2021,Small (10 to 49),Transport & Logistics,13180
+2021,Small (10 to 49),Utilities,3515
+2021,Small (10 to 49),Wholesale Trade,31520
+2021,Total,Agriculture,136045
+2021,Total,Business Support Services,272755
+2021,Total,Construction,370105
+2021,Total,Hospitality,215435
+2021,Total,IT & Computer Services,164645
+2021,Total,Manufacturing,151195
+2021,Total,Other Information Services,56590
+2021,Total,Other Primary Industries,11095
+2021,Total,Other Services,206425
+2021,Total,Professional Services,474185
+2021,Total,Retail Trade,316400
+2021,Total,Social care,88560
+2021,Total,Transport & Logistics,154950
+2021,Total,Utilities,19030
+2021,Total,Wholesale Trade,215875
+2022,Large (250+),Agriculture,85
+2022,Large (250+),Business Support Services,1460
+2022,Large (250+),Construction,250
+2022,Large (250+),Hospitality,250
+2022,Large (250+),IT & Computer Services,330
+2022,Large (250+),Manufacturing,1330
+2022,Large (250+),Other Information Services,275
+2022,Large (250+),Other Primary Industries,35
+2022,Large (250+),Other Services,315
+2022,Large (250+),Professional Services,1035
+2022,Large (250+),Retail Trade,1175
+2022,Large (250+),Social care,360
+2022,Large (250+),Transport & Logistics,855
+2022,Large (250+),Utilities,190
+2022,Large (250+),Wholesale Trade,400
+2022,Medium-sized (50 to 249),Agriculture,445
+2022,Medium-sized (50 to 249),Business Support Services,6745
+2022,Medium-sized (50 to 249),Construction,2965
+2022,Medium-sized (50 to 249),Hospitality,5635
+2022,Medium-sized (50 to 249),IT & Computer Services,2075
+2022,Medium-sized (50 to 249),Manufacturing,7555
+2022,Medium-sized (50 to 249),Other Information Services,1160
+2022,Medium-sized (50 to 249),Other Primary Industries,160
+2022,Medium-sized (50 to 249),Other Services,3330
+2022,Medium-sized (50 to 249),Professional Services,5590
+2022,Medium-sized (50 to 249),Retail Trade,5770
+2022,Medium-sized (50 to 249),Social care,7695
+2022,Medium-sized (50 to 249),Transport & Logistics,4450
+2022,Medium-sized (50 to 249),Utilities,1090
+2022,Medium-sized (50 to 249),Wholesale Trade,4605
+2022,Micro (0 to 9),Agriculture,132485
+2022,Micro (0 to 9),Business Support Services,238255
+2022,Micro (0 to 9),Construction,361515
+2022,Micro (0 to 9),Hospitality,159415
+2022,Micro (0 to 9),IT & Computer Services,134650
+2022,Micro (0 to 9),Manufacturing,115145
+2022,Micro (0 to 9),Other Information Services,52080
+2022,Micro (0 to 9),Other Primary Industries,10235
+2022,Micro (0 to 9),Other Services,185935
+2022,Micro (0 to 9),Professional Services,413685
+2022,Micro (0 to 9),Retail Trade,258620
+2022,Micro (0 to 9),Social care,47200
+2022,Micro (0 to 9),Transport & Logistics,135505
+2022,Micro (0 to 9),Utilities,14885
+2022,Micro (0 to 9),Wholesale Trade,183005
+2022,Small (10 to 49),Agriculture,4155
+2022,Small (10 to 49),Business Support Services,26230
+2022,Small (10 to 49),Construction,21030
+2022,Small (10 to 49),Hospitality,57925
+2022,Small (10 to 49),IT & Computer Services,9115
+2022,Small (10 to 49),Manufacturing,25275
+2022,Small (10 to 49),Other Information Services,4795
+2022,Small (10 to 49),Other Primary Industries,950
+2022,Small (10 to 49),Other Services,20545
+2022,Small (10 to 49),Professional Services,31695
+2022,Small (10 to 49),Retail Trade,51440
+2022,Small (10 to 49),Social care,33240
+2022,Small (10 to 49),Transport & Logistics,13855
+2022,Small (10 to 49),Utilities,3590
+2022,Small (10 to 49),Wholesale Trade,31635
+2022,Total,Agriculture,137165
+2022,Total,Business Support Services,272675
+2022,Total,Construction,385760
+2022,Total,Hospitality,223225
+2022,Total,IT & Computer Services,146170
+2022,Total,Manufacturing,149330
+2022,Total,Other Information Services,58310
+2022,Total,Other Primary Industries,11375
+2022,Total,Other Services,210125
+2022,Total,Professional Services,451995
+2022,Total,Retail Trade,317005
+2022,Total,Social care,88490
+2022,Total,Transport & Logistics,154665
+2022,Total,Utilities,19755
+2022,Total,Wholesale Trade,219640
+2023,Large (250+),Agriculture,90
+2023,Large (250+),Business Support Services,1475
+2023,Large (250+),Construction,250
+2023,Large (250+),Hospitality,265
+2023,Large (250+),IT & Computer Services,370
+2023,Large (250+),Manufacturing,1355
+2023,Large (250+),Other Information Services,270
+2023,Large (250+),Other Primary Industries,35
+2023,Large (250+),Other Services,335
+2023,Large (250+),Professional Services,1100
+2023,Large (250+),Retail Trade,1110
+2023,Large (250+),Social care,325
+2023,Large (250+),Transport & Logistics,875
+2023,Large (250+),Utilities,180
+2023,Large (250+),Wholesale Trade,440
+2023,Medium-sized (50 to 249),Agriculture,495
+2023,Medium-sized (50 to 249),Business Support Services,6910
+2023,Medium-sized (50 to 249),Construction,3020
+2023,Medium-sized (50 to 249),Hospitality,5985
+2023,Medium-sized (50 to 249),IT & Computer Services,2200
+2023,Medium-sized (50 to 249),Manufacturing,7505
+2023,Medium-sized (50 to 249),Other Information Services,1200
+2023,Medium-sized (50 to 249),Other Primary Industries,165
+2023,Medium-sized (50 to 249),Other Services,3465
+2023,Medium-sized (50 to 249),Professional Services,5865
+2023,Medium-sized (50 to 249),Retail Trade,5610
+2023,Medium-sized (50 to 249),Social care,7535
+2023,Medium-sized (50 to 249),Transport & Logistics,4565
+2023,Medium-sized (50 to 249),Utilities,1095
+2023,Medium-sized (50 to 249),Wholesale Trade,4665
+2023,Micro (0 to 9),Agriculture,131270
+2023,Micro (0 to 9),Business Support Services,234075
+2023,Micro (0 to 9),Construction,363540
+2023,Micro (0 to 9),Hospitality,155985
+2023,Micro (0 to 9),IT & Computer Services,124365
+2023,Micro (0 to 9),Manufacturing,112745
+2023,Micro (0 to 9),Other Information Services,52755
+2023,Micro (0 to 9),Other Primary Industries,10150
+2023,Micro (0 to 9),Other Services,189140
+2023,Micro (0 to 9),Professional Services,397095
+2023,Micro (0 to 9),Retail Trade,248220
+2023,Micro (0 to 9),Social care,47520
+2023,Micro (0 to 9),Transport & Logistics,126135
+2023,Micro (0 to 9),Utilities,14825
+2023,Micro (0 to 9),Wholesale Trade,178685
+2023,Small (10 to 49),Agriculture,4175
+2023,Small (10 to 49),Business Support Services,27305
+2023,Small (10 to 49),Construction,21400
+2023,Small (10 to 49),Hospitality,60355
+2023,Small (10 to 49),IT & Computer Services,9455
+2023,Small (10 to 49),Manufacturing,25210
+2023,Small (10 to 49),Other Information Services,4885
+2023,Small (10 to 49),Other Primary Industries,975
+2023,Small (10 to 49),Other Services,21085
+2023,Small (10 to 49),Professional Services,32390
+2023,Small (10 to 49),Retail Trade,51400
+2023,Small (10 to 49),Social care,33995
+2023,Small (10 to 49),Transport & Logistics,13625
+2023,Small (10 to 49),Utilities,3520
+2023,Small (10 to 49),Wholesale Trade,31600
+2023,Total,Agriculture,136030
+2023,Total,Business Support Services,269775
+2023,Total,Construction,388210
+2023,Total,Hospitality,222595
+2023,Total,IT & Computer Services,136385
+2023,Total,Manufacturing,146815
+2023,Total,Other Information Services,59105
+2023,Total,Other Primary Industries,11335
+2023,Total,Other Services,214015
+2023,Total,Professional Services,436450
+2023,Total,Retail Trade,306340
+2023,Total,Social care,89375
+2023,Total,Transport & Logistics,145190
+2023,Total,Utilities,19630
+2023,Total,Wholesale Trade,215390
+2024,Large (250+),Agriculture,90
+2024,Large (250+),Business Support Services,1505
+2024,Large (250+),Construction,250
+2024,Large (250+),Hospitality,305
+2024,Large (250+),IT & Computer Services,400
+2024,Large (250+),Manufacturing,1370
+2024,Large (250+),Other Information Services,265
+2024,Large (250+),Other Primary Industries,35
+2024,Large (250+),Other Services,330
+2024,Large (250+),Professional Services,1185
+2024,Large (250+),Retail Trade,1040
+2024,Large (250+),Social care,340
+2024,Large (250+),Transport & Logistics,945
+2024,Large (250+),Utilities,195
+2024,Large (250+),Wholesale Trade,440
+2024,Medium-sized (50 to 249),Agriculture,505
+2024,Medium-sized (50 to 249),Business Support Services,6840
+2024,Medium-sized (50 to 249),Construction,3030
+2024,Medium-sized (50 to 249),Hospitality,6325
+2024,Medium-sized (50 to 249),IT & Computer Services,2225
+2024,Medium-sized (50 to 249),Manufacturing,7475
+2024,Medium-sized (50 to 249),Other Information Services,1240
+2024,Medium-sized (50 to 249),Other Primary Industries,175
+2024,Medium-sized (50 to 249),Other Services,3650
+2024,Medium-sized (50 to 249),Professional Services,6170
+2024,Medium-sized (50 to 249),Retail Trade,5540
+2024,Medium-sized (50 to 249),Social care,7865
+2024,Medium-sized (50 to 249),Transport & Logistics,4605
+2024,Medium-sized (50 to 249),Utilities,1125
+2024,Medium-sized (50 to 249),Wholesale Trade,4765
+2024,Micro (0 to 9),Agriculture,130930
+2024,Micro (0 to 9),Business Support Services,234500
+2024,Micro (0 to 9),Construction,366945
+2024,Micro (0 to 9),Hospitality,155320
+2024,Micro (0 to 9),IT & Computer Services,122970
+2024,Micro (0 to 9),Manufacturing,109750
+2024,Micro (0 to 9),Other Information Services,54265
+2024,Micro (0 to 9),Other Primary Industries,10125
+2024,Micro (0 to 9),Other Services,192660
+2024,Micro (0 to 9),Professional Services,399140
+2024,Micro (0 to 9),Retail Trade,243970
+2024,Micro (0 to 9),Social care,47770
+2024,Micro (0 to 9),Transport & Logistics,115180
+2024,Micro (0 to 9),Utilities,14875
+2024,Micro (0 to 9),Wholesale Trade,177190
+2024,Small (10 to 49),Agriculture,4290
+2024,Small (10 to 49),Business Support Services,27010
+2024,Small (10 to 49),Construction,20970
+2024,Small (10 to 49),Hospitality,60180
+2024,Small (10 to 49),IT & Computer Services,9455
+2024,Small (10 to 49),Manufacturing,24590
+2024,Small (10 to 49),Other Information Services,4900
+2024,Small (10 to 49),Other Primary Industries,955
+2024,Small (10 to 49),Other Services,21360
+2024,Small (10 to 49),Professional Services,32720
+2024,Small (10 to 49),Retail Trade,52050
+2024,Small (10 to 49),Social care,34160
+2024,Small (10 to 49),Transport & Logistics,12735
+2024,Small (10 to 49),Utilities,3565
+2024,Small (10 to 49),Wholesale Trade,31575
+2024,Total,Agriculture,135815
+2024,Total,Business Support Services,269865
+2024,Total,Construction,391195
+2024,Total,Hospitality,222135
+2024,Total,IT & Computer Services,135050
+2024,Total,Manufacturing,143190
+2024,Total,Other Information Services,60670
+2024,Total,Other Primary Industries,11290
+2024,Total,Other Services,218025
+2024,Total,Professional Services,439210
+2024,Total,Retail Trade,302600
+2024,Total,Social care,90135
+2024,Total,Transport & Logistics,133455
+2024,Total,Utilities,19765
+2024,Total,Wholesale Trade,213970
+2025,Large (250+),Agriculture,100
+2025,Large (250+),Business Support Services,1365
+2025,Large (250+),Construction,265
+2025,Large (250+),Hospitality,335
+2025,Large (250+),IT & Computer Services,420
+2025,Large (250+),Manufacturing,1350
+2025,Large (250+),Other Information Services,230
+2025,Large (250+),Other Primary Industries,35
+2025,Large (250+),Other Services,365
+2025,Large (250+),Professional Services,1220
+2025,Large (250+),Retail Trade,965
+2025,Large (250+),Social care,360
+2025,Large (250+),Transport & Logistics,980
+2025,Large (250+),Utilities,210
+2025,Large (250+),Wholesale Trade,440
+2025,Medium-sized (50 to 249),Agriculture,510
+2025,Medium-sized (50 to 249),Business Support Services,6770
+2025,Medium-sized (50 to 249),Construction,3035
+2025,Medium-sized (50 to 249),Hospitality,6400
+2025,Medium-sized (50 to 249),IT & Computer Services,2255
+2025,Medium-sized (50 to 249),Manufacturing,7365
+2025,Medium-sized (50 to 249),Other Information Services,1180
+2025,Medium-sized (50 to 249),Other Primary Industries,180
+2025,Medium-sized (50 to 249),Other Services,3700
+2025,Medium-sized (50 to 249),Professional Services,6280
+2025,Medium-sized (50 to 249),Retail Trade,5560
+2025,Medium-sized (50 to 249),Social care,8200
+2025,Medium-sized (50 to 249),Transport & Logistics,4545
+2025,Medium-sized (50 to 249),Utilities,1130
+2025,Medium-sized (50 to 249),Wholesale Trade,4785
+2025,Micro (0 to 9),Agriculture,130310
+2025,Micro (0 to 9),Business Support Services,226490
+2025,Micro (0 to 9),Construction,372250
+2025,Micro (0 to 9),Hospitality,156780
+2025,Micro (0 to 9),IT & Computer Services,121625
+2025,Micro (0 to 9),Manufacturing,108325
+2025,Micro (0 to 9),Other Information Services,55925
+2025,Micro (0 to 9),Other Primary Industries,10130
+2025,Micro (0 to 9),Other Services,196170
+2025,Micro (0 to 9),Professional Services,400895
+2025,Micro (0 to 9),Retail Trade,241050
+2025,Micro (0 to 9),Social care,46925
+2025,Micro (0 to 9),Transport & Logistics,112675
+2025,Micro (0 to 9),Utilities,15875
+2025,Micro (0 to 9),Wholesale Trade,177600
+2025,Small (10 to 49),Agriculture,4385
+2025,Small (10 to 49),Business Support Services,29265
+2025,Small (10 to 49),Construction,20800
+2025,Small (10 to 49),Hospitality,60320
+2025,Small (10 to 49),IT & Computer Services,9405
+2025,Small (10 to 49),Manufacturing,24090
+2025,Small (10 to 49),Other Information Services,4735
+2025,Small (10 to 49),Other Primary Industries,935
+2025,Small (10 to 49),Other Services,21440
+2025,Small (10 to 49),Professional Services,33175
+2025,Small (10 to 49),Retail Trade,51985
+2025,Small (10 to 49),Social care,34400
+2025,Small (10 to 49),Transport & Logistics,12530
+2025,Small (10 to 49),Utilities,3515
+2025,Small (10 to 49),Wholesale Trade,31665
+2025,Total,Agriculture,135305
+2025,Total,Business Support Services,263895
+2025,Total,Construction,396350
+2025,Total,Hospitality,223830
+2025,Total,IT & Computer Services,133700
+2025,Total,Manufacturing,141090
+2025,Total,Other Information Services,62065
+2025,Total,Other Primary Industries,11280
+2025,Total,Other Services,221670
+2025,Total,Professional Services,441565
+2025,Total,Retail Trade,299565
+2025,Total,Social care,89885
+2025,Total,Transport & Logistics,130730
+2025,Total,Utilities,20730
+2025,Total,Wholesale Trade,214490
